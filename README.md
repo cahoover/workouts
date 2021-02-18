@@ -1,5 +1,7 @@
 # 2021 Workouts
 
+Update vimeo videos [here](https://github.com/mjfrigaard/workouts#left-off-here)
+
 ## 2021-02-17
 
 - [x] 8x rounds
