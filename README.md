@@ -1,17 +1,20 @@
 # 2021 Workouts
 
 ## 2021-02-17
+
 - [ ] 8 rounds
 * DB deadlift + DB curl and press
 * DB goblet squats
 
 ## 2021-02-16
+
 - [x] 8x rounds
 - 6x alternating DB hang cleans
 - 12x DB push press
 - 15x sit-ups
 
 ## 2021-02-15
+
 - [x] 20 min EMOM
 * 8x DB thrusters
 * 16 KB swings
@@ -33,6 +36,7 @@
 
 
 ## 2021-02-12
+
 - [x] 3 rounds
 * 10x DB snatch (L)
 * 10x DB OH lunges (L)
@@ -45,18 +49,21 @@
 * 10x DB front squats (R)
 
 ## 2021-02-11
+
 - [x] 3 rounds
 * 30 DB thrusters
 * 30 double-unders
 * 30 KB swings
 
 ## 2021-02-10
+
 - [x] 5 rounds
 * 24 DB deadlifts
 * 16 DB snatches
 * 8 DB push press
 
 ## 2021-02-09
+
 - [x] 7x rounds
 - 3x DB deadlift
 - 1x DB clean
@@ -66,6 +73,7 @@
 - 2x DB jerks
 
 ## 2021-02-08
+
 - [x] 6x rounds:
 - 6 KB swings
 - 6 goblet squats
@@ -74,6 +82,7 @@
 - 6 KB lunges
 
 ## 2021-02-07
+
 - [x] 12-10-8-6-4-2
 * KB swing > clean > squat (one arm)
 - [x] 2-4-6-8-10-12
@@ -87,6 +96,7 @@
 - [x] 8x reps (4 each leg)   
 
 ## 2021-02-05
+
 - [x] 5x rounds
 * 15x Z press
 * 15x DB goblet squats
@@ -94,23 +104,27 @@
 * 15x OH walking lunge
 
 ## 2021-02-04
+
 - [x] 5x rounds
 * 9x Double KB front squat
 * 7x KB swings
 * 5x KB push press
 
 ## 2021-02-03
+
 - [x] 1-2-3-4-5-4-3-2-1 reps of
 * Double KB swing +
 * KB front squat +
-	* KB push press
+* KB push press
 
 ## 2021-02-02
+
 - [x] EMOM for 20 Minutes
 * 20x KB Swings
 * 15x Ball Slams
 
 ## 2021-02-01
+
 - [x] 5x Rounds
 * 15x KB Swings
 * 15x Goblet Squats
@@ -118,6 +132,7 @@
 * 10x KB Push Presses
 
 ## 2021-01-31
+
 - [x] Every 3 minute for 21 minutes
 - 10x burpees
 - 8x renegade rows
@@ -125,6 +140,7 @@
 - farmers walks 40m
 
 ## 2021-01-30
+
 - [x] 5x Rounds
 - 10x DB snatch (R)
 - 10x DB front squat (in right hand)
@@ -132,28 +148,33 @@
 - 10x DB front squat (in left hand)
 
 ## 2021-01-29
+
 - [x] 6-12-18-12-6 reps
 - KB alternating switch hand swings
 - DB thrusters
 
 ## 2021-01-28
+
 - [x] Every 90 seconds x10 rounds
 * 4x single arm DB snatches
 * 6x single arm DB push-press
 * 8x goblet squat
 
 ## 2021-01-27
+
 - [x] Every 90 seconds for 12 cycles
 * 10x ball slams (@25#)
 * 5x D-ball tosses (@150#)
 
 ## 2021-01-26
+
 - [x] Every 2 min x10 cycles
 * 5x Burpees
 * 10x Thrusters
 * 30x Double-unders
 
 ## 2021-01-25
+
 - [x] Every 30 seconds for 3 min
 * 8x heavy goblet squats
 - [x] Every 45 seconds for 6 cycles
@@ -162,16 +183,19 @@
 * 12 single arm overhead walking lunges
 
 ## 2021-01-24
+
 - [x] EMOM x10 min
 * 10x D-ball toss
 * 10x KB Swing
 
 ## 2021-01-23
+
 - [x] Every 2 min x 10 cycles
 * 10x clusters
 * 8x box jumps
 
 ## 2021-01-22
+
 - [x] 10 Rounds
 - 5 Devils Press
 * 20 Alt Front Rack Lunges
@@ -179,24 +203,28 @@
 * 30 DUs
 
 ## 2021-01-22
+
 - [x] 50 reps of:
 * DB alternating thruster
 * DB single arm split snatch
 * DB floor press
 
 ## 2021-01-21
+
 - [x] 8x rounds
 - 10x overhead sit-up (@25#)
 - 12x DB snatches (@55#)
 - 6x D-Ball toss (@90#)
 
 ## 2021-01-20
+
 - [x] 21 min EMOM
 - 5x DB clusters (@45#)
 - 12x ball slams (@25#)
 - 12x KB swings (@53#)
 
 ## 2021-01-19
+
 - [x] EMOM x24 min
 - 10x DB hang clean and press (@55#)
 - 15x squats
@@ -256,6 +284,7 @@
 (wear a 25# weight vest)
 
 ## 2021-01-10
+
 - [x] 4x Rounds
 * 15x Goblet squats
 * 20x Single arm DB thruster (R)
