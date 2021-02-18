@@ -1196,11 +1196,11 @@ https://vimeo.com/486858588
 
 - [x] Do 5 reps of each exercise for 23 min
  - Single Arm Hang Power Snatch ->
-	 - DB Clean and Press ->
-		 - Front-Rack Reverse Lunge ->
-			 - Single Arm Bent-Over Row ->
-				 - Single Arm DB Hammer Curls ->
-					 - DB Goblet Squats
+ - DB Clean and Press ->
+ - Front-Rack Reverse Lunge ->
+ - Single Arm Bent-Over Row ->
+ - Single Arm DB Hammer Curls ->
+ - DB Goblet Squats
 
 ## 2020-09-26
 
@@ -1218,8 +1218,8 @@ https://vimeo.com/486858588
 
 - [x]  8x rounds
  * Single Arm DB High-pull ->
-	 * Single Arm DB Hang Snatch ->
-		 * Single Arm DB Thruster = 1 rep. Do 6 (3x each side)
+ * Single Arm DB Hang Snatch ->
+ * Single Arm DB Thruster = 1 rep. Do 6 (3x each side)
  * 25x Double-Unders
 
 ## 2020-09-23
@@ -1236,6 +1236,7 @@ Workout 1:
  * 20x push-ups
  * 20x squats
  * 20x sit-ups
+
 Workout 2:
 - [x] 8 rounds:
  * 8x DB deadlift -> DB hang squat clean
@@ -1248,6 +1249,7 @@ Workout 1:
 - [x] 6 rounds
  * 10x single arm high-pull + snatch
  * 8x single arm floor press
+
 Workout 2:
 - [x] 6 rounds
  * 10x reverse crunches
@@ -1321,6 +1323,7 @@ Workout 1:
 - [x] 5x rounds
  * 10x DB deadlift
  * 10x KB switch hand snatch/swing
+
 Workout 2:
 - [x] 6x rounds
  * 10x SSLL (squat x 2 + lunge x 2 = 1 rep)
@@ -1337,7 +1340,7 @@ Workout 2:
 …do 25 reps.
 
 - [x] Workout 2 (5x rounds)
- - 25x double unders
+ - 25x double-unders
  - 15x reverse-crunches
  - 15x push-ups
 
