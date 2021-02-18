@@ -15,9 +15,12 @@
 
 ## 2021-02-15
 
-- [x] 20 min EMOM
-* 8x DB thrusters
-* 16 KB swings
+- [x] 8x rounds:
+- 10x D-ball tosses (@90#)
+- 10x DB snatches (@55#)
+- 5x Overhead lunge (@55#)
+
+https://vimeo.com/512740745
 
 ## 2021-02-14
 
@@ -50,17 +53,22 @@
 
 ## 2021-02-11
 
-- [x] 3 rounds
-* 30 DB thrusters
-* 30 double-unders
-* 30 KB swings
+- [x] 7 Rounds:
+- 15x KB swing
+- 12x DB floor press
+- 20x squats
+
+https://vimeo.com/511374508
 
 ## 2021-02-10
 
-- [x] 5 rounds
-* 24 DB deadlifts
-* 16 DB snatches
-* 8 DB push press
+- [x] 6x Rounds:
+- 8x thrusters
+- 10x ball slams
+- 16x hammer curls
+- 12x ab rotations
+
+https://vimeo.com/510927196
 
 ## 2021-02-09
 
@@ -74,12 +82,11 @@
 
 ## 2021-02-08
 
-- [x] 6x rounds:
-- 6 KB swings
-- 6 goblet squats
-- 6 sit-ups
-- 6 push-ups
-- 6 KB lunges
+- [x] 10x rounds
+- 10x DB snatches (@55#)
+- 6x D-ball tosses (@90#)
+
+https://vimeo.com/510016136
 
 ## 2021-02-07
 
@@ -112,10 +119,13 @@
 
 ## 2021-02-03
 
-- [x] 1-2-3-4-5-4-3-2-1 reps of
-* Double KB swing +
-* KB front squat +
-* KB push press
+- [x] 5 rounds (20 min time-cap)
+- 10x DB clusters
+- 10x push-ups
+- 10x sit-ups (@25#)
+- 6x D-ball tosses (@90#)
+
+https://vimeo.com/508214225
 
 ## 2021-02-02
 
@@ -136,11 +146,12 @@ https://player.vimeo.com/video/507695569
 
 ## 2021-01-31
 
-- [x] Every 3 minute for 21 minutes
-- 10x burpees
-- 8x renegade rows
-- 12x box jumps
-- farmers walks 40m
+- [x] 50 reps of each  
+- goblet squat (@55#)  
+- cross-carry lunge (@50#)  
+- DB snatch (double) (@50#)  
+
+https://vimeo.com/506925521
 
 ## 2021-01-30
 
@@ -150,6 +161,8 @@ https://player.vimeo.com/video/507695569
 - 10x DB snatch (L)
 - 10x DB front squat (in left hand)
 
+
+
 ## 2021-01-29
 
 - [x] 6-12-18-12-6 reps
@@ -158,10 +171,12 @@ https://player.vimeo.com/video/507695569
 
 ## 2021-01-28
 
-- [x] Every 90 seconds x10 rounds
-* 4x single arm DB snatches
-* 6x single arm DB push-press
-* 8x goblet squat
+
+- [x] 50x reps of:  
+- 150# D-Ball tosses  
+- DB hang power clean + press (@45#)
+
+https://vimeo.com/505917813
 
 ## 2021-01-27
 
@@ -171,10 +186,12 @@ https://player.vimeo.com/video/507695569
 
 ## 2021-01-26
 
-- [x] Every 2 min x10 cycles
-* 5x Burpees
-* 10x Thrusters
-* 30x Double-unders
+- [x] EMOM x 24 min
+- 8x DBall toss (4x 60#, 4x 90#)
+- 2x TGU (@55#)
+- 20x squats  
+
+https://vimeo.com/504833762
 
 ## 2021-01-25
 
@@ -199,11 +216,12 @@ https://player.vimeo.com/video/507695569
 
 ## 2021-01-22
 
-- [x] 10 Rounds
-- 5 Devils Press
-* 20 Alt Front Rack Lunges
-* 10 DB Push Press
-* 30 DUs
+- [x] 50 reps of each:   
+- DB alternating double thruster
+- DB single arm split snatch
+- DB floor press
+
+https://vimeo.com/503687959
 
 ## 2021-01-22
 
@@ -214,61 +232,79 @@ https://player.vimeo.com/video/507695569
 
 ## 2021-01-21
 
-- [x] 8x rounds
+- [x] 8x rounds  
 - 10x overhead sit-up (@25#)
 - 12x DB snatches (@55#)
 - 6x D-Ball toss (@90#)
 
+https://vimeo.com/503308379
+
 ## 2021-01-20
 
-- [x] 21 min EMOM
+- [x] 21 min EMOM  
 - 5x DB clusters (@45#)
 - 12x ball slams (@25#)
 - 12x KB swings (@53#)
 
+https://vimeo.com/503084925
+
 ## 2021-01-19
 
-- [x] EMOM x24 min
+- [x] EMOM x24 min  
 - 10x DB hang clean and press (@55#)
 - 15x squats
 - 10x DB Snatch (@55#)
 - 15x push-ups
 
+https://vimeo.com/502423925
+
 ## 2021-01-18
+
 - [x] 10x Rounds
 * 10x DB Clusters
 * 30x double-unders
 
 ## 2021-01-17
-- [x] 8x rounds:
+
+- [x] 8x rounds:  
 - 10x d-ball up and over (@90#)
 - 12x DB hang snatch (@55#)
 - 10x ball slams (@25#)
 - 10x DB curl and press (@45#)
 
+https://vimeo.com/501594975
+
 ## 2021-01-16
-- [x] 8x rounds:
-* 12x DB Deadlifts
-* 9x DB Hang power cleans
-* 6x DB Front squats
-* 3x DB Shoulder-to-overhead
+
+- [x] D-ball EMOM x 27 min:  
+- 8x D-ball lunges
+- 8x D-ball squats
+- Complex: 2x reverse lunge, 3x squats
+
+https://vimeo.com/501596181
 
 ## 2021-01-15
+
 - [x] 4 rounds:
 * 10x Double-dumbbell snatch
 * 25x Double-unders
 
 ## 2021-01-14
+
 - [x] 10 Rounds:
 - 10x KB snatches (@53#)
 - 6x DB goblet squats (@85#)
 
+https://vimeo.com/500512167
+
 ## 2021-01-13
 
-- [x] 21 min EMOM
+- [x] 21 min EMOM  
 - 20x banded squats
 - 12x DB snatch (@55#)
 - 15x push-ups
+
+https://vimeo.com/500186421
 
 ## 2021-01-12
 
@@ -280,11 +316,13 @@ https://player.vimeo.com/video/507695569
 
 ## 2021-01-11
 
-- [x] 20 min EMOM
+- [x] 20 min EMOM  
 - Odd min (scorpion bag)
 - Even min (heavy bag)
 
 (wear a 25# weight vest)
+
+https://vimeo.com/499360968
 
 ## 2021-01-10
 
@@ -314,9 +352,12 @@ https://player.vimeo.com/video/507695569
 - [x] EMOM x 20 min
 2 reps of:
 - Single arm DB snatch
-- Single arm DB cluster
-- Single arm Devil’s press
+- Single arm DB cluster  
+- Single arm DB Devil’s press
+
 All from floor
+
+https://vimeo.com/498006610
 
 
 ## 2021-01-06
@@ -326,18 +367,22 @@ All from floor
 
 ## 2021-01-05
 
-- [x] EMOM x 24 min
-* 6x d-ball tosses @150#
-* 12x ball slams @25#
-* 6x d-ball tosses @90#
+- [x] EMOM x 24 min   
+- 6x D-ball tosses @150#  
+- 12x ball slams @25#  
+- 6x D-ball tosses @90#  
+
+https://vimeo.com/497414019
 
 ## 2021-01-04
 
-- [x] 24 min EMOM
-* Push-ups x15
-* Swing x15 (@53#)
-* Bag work x30 sec
-* DB clean + press x6 (@85#)
+- [x] 24 min EMOM  
+- push-ups x 15  
+- swings x 15  
+- jabs x 30 sec  
+- DB ground to overhead x 6 (@85#)  
+
+https://vimeo.com/497104802
 
 ## 2021-01-03
 
@@ -373,12 +418,14 @@ All from floor
 
 ## 2020-12-30
 
-- [x] 6x Rounds
-* 10x Ball Slams @25lbs
-* 6x Step-overs (suitcase)
-* 6x Single Arm Snatch + Thruster
-* 10x Ab Rotation
-* 12x Push-ups
+- [x] 6x Rounds  
+- 6x DB snatch + thruster  
+- 10x ab rotation  
+- 12x push-ups  
+- 10x ball slams  
+- 6x suitcase step-overs  
+
+https://vimeo.com/495929280
 
 ## 2020-12-29
 
@@ -389,11 +436,14 @@ All from floor
 
 ## 2020-12-28
 
-- [x] 50x Bear Complexes (DB)
-* deadlift > hang clean > front squat > push-press > front squat > push-press = 1
+- [x] 50x reps:  
+- Bear complex (DL + CL + FS + PP + FS + PP)  
+- [x] 50x reps of:   
+- DB power clean + DB snatch  
 
-- [x] 50x Power Clean + Snatch complexes
-* DB power clean (double DBs) > DB snatch (double DBs) = 1
+(both from floor)
+
+https://vimeo.com/495930599
 
 ## 2020-12-27
 
@@ -412,9 +462,14 @@ All from floor
 
 ## 2020-12-25
 
-- [x] EMOM x20 min
-- 8x DB Single Arm Push Press
-- 8x DB Reverse Suitcase Lunge
+- [x] 8 Rounds:  
+- 10x DB Snatches   
+- 6x D-Ball Tosses   
+- 10x Ab Rotations   
+- 10x KB Swings   
+- 12x Push-ups   
+
+https://vimeo.com/495944299
 
 ## 2020-12-24
 
@@ -423,6 +478,15 @@ All from floor
 - 10x TB front squat
 - 10x TB power snatch (from ground)  
 - 10x TB floor press
+
+## 2020-12-21
+
+- [x] 24 min EMOM  
+- 20x band squats   
+- Single arm sprawl + cluster (@50#)   
+- Scorpion bag work  
+
+https://vimeo.com/495579055
 
 ## 2020-12-20
 
@@ -496,12 +560,12 @@ All from floor
 
 ## 2020-12-11
 
-- [x] 4x Rounds:
+- [x] Every 120 seconds x 11 rounds:  
+- 12x Single Arm DB Snatch  
+- 12x Push-ups  
+- 12x Suitcase Lunge  
 
-- 8x Goblet squat     
-- 8x Z-press          
-- 8x Bent over rows   
-- 8x Farmer carry     
+https://vimeo.com/489662322
 
 ## 2020-12-10
 
@@ -520,11 +584,12 @@ All from floor
 
 ## 2020-12-08
 
-- [x] 5x Rounds:
-- 8x Hang power clean and jerk     
-- 8x Front rack lunge           
-- 8x Ground-to-overhead        
-- 8x Front rack carry          
+- [x] Every 2 minutes x 12 rounds:  
+- 8x Single Arm DB Clusters (@50#)   
+- 12x Ab Rotation  
+- 6x DBall Toss (@90#)         
+
+https://vimeo.com/488757712
 
 ## 2020-12-07
 
@@ -533,13 +598,14 @@ All from floor
 - 8x Farmer carry lunge   
 - 8x Push press           
 
-
 ## 2020-12-06
 
-- [x] 4x rounds:
-- 10x Power clean and jerk  
-- 10x Renegade row          
-- 10x Thruster              
+- [x] Every 120 seconds x15 rounds:  
+- 8x DB Single Arm Clusters   
+- 8x DB Thrusters   
+- Heavy Bag (with remaining time)     
+
+https://vimeo.com/488776175
 
 ## 2020-12-05
 
@@ -548,7 +614,6 @@ All from floor
 - 10x Squat clean               
 - 10x Power snatch + thrusters  
 
-
 ## 2020-12-04
 
 - [x] 4x Rounds
@@ -556,12 +621,24 @@ All from floor
 - 10x Power clean and jerk  
 - 10x Front rack lunge     
 
+Playing with combos
+
+https://vimeo.com/487385236/b9b5273439
+
 ## 2020-12-03
 
 - [x] 4x Rounds:
 - 10x Overhead carry        
 - 10x Farmer carry lunge    
-- 10x Push jerk             
+- 10x Push jerk          
+
+Thumb in or up?
+
+https://youtu.be/0gtMKaCJ5I8
+
+https://vimeo.com/486858588   
+
+## **LEFT OFF HERE**
 
 ## 2020-12-02
 
