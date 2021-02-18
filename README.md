@@ -2,9 +2,9 @@
 
 This is a daily workout log. Check out video demos [here](https://vimeo.com/user124837051).
 
-+ This `README.md` file cover workouts back to `2020-06-27`  
-+ The `img/` folder contains images for daily workouts by year (`2020` and `2021`)  
-+ `img/2020/` contains folders for workouts by type:
++ This `README.md` file contains workouts back to `2020-06-27`  
++ The `img/` folder contains image files for daily workouts by year (`2020/` and `2021/`)  
++ The `img/2020/` folder contains sub-folders for workouts by type:
 
 ```
 2020/
