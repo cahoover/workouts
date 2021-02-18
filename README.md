@@ -1,4 +1,4 @@
-# 2021 Workouts
+# Workouts
 
 This is my daily workout log.
 
