@@ -1,6 +1,28 @@
 # 2021 Workouts
 
-Update vimeo videos [here](https://github.com/mjfrigaard/workouts#left-off-here)
+This is a daily workout log. Check out video demos [here](https://vimeo.com/user124837051).
+
++ This `README.md` file cover workouts back to `2020-06-27`  
++ The `img/` folder contains images for daily workouts by year (`2020` and `2021`)  
++ `img/2020/` contains folders for workouts by type:
+
+```
+2020/
+    ├── 2020-barbell
+    ├── 2020-bw
+    ├── 2020-dballs
+    ├── 2020-dbs
+    ├── 2020-emoms
+    ├── 2020-kbs
+    ├── 2020-misc
+    ├── 2020-slam-balls
+    └── 2020-work-rest
+```
+
+
+## To-do
+
+Update Vimeo videos [here](https://github.com/mjfrigaard/workouts#left-off-here)
 
 ## 2021-02-17
 
