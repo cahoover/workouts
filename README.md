@@ -3,8 +3,8 @@
 ## 2021-02-17
 
 - [x] 8x rounds
-* 8x DB deadlift + DB curl and press
-* 8x DB goblet squats
+* 8x DB deadlift + DB curl and press (@45#)
+* 8x DB goblet squats (@85#)
 
 ## 2021-02-16
 
@@ -124,7 +124,7 @@
 - 25x double-unders
 - 12x single arm DB snatch (@55#)
 
-![](https://player.vimeo.com/video/507695569)
+https://player.vimeo.com/video/507695569
 
 ## 2021-02-01
 
