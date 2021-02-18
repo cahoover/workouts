@@ -17,16 +17,19 @@
 	* 16 KB swings
 
 ## 2021-02-14
-25-20-15-10-5
+
+	- [x] 25-20-15-10-5
 	- Squats
 	- DB hang power clean + press
 	- DB deadlift
 
 ## 2021-02-13
-20-15-10-5
-	- alternating DB snatches
-5-10-15-20
-	* push-ups
+
+	- [x] 20-15-10-5  
+	- alternating DB snatches  
+
+	- [x] 5-10-15-20  
+	* push-ups  
 
 
 ## 2021-02-12
@@ -77,10 +80,11 @@
 	* DB snatch > sprawl (one arm)
 
 ## 2021-02-06
-KB snatch > switch hand swing > snatch
-	- [x] 10-9-8-7-6-5-4-3-2-1
-KB clean > Single arm front squat
-	- [x] 8x reps (4 each leg)
+
+	- [x] 10-9-8-7-6-5-4-3-2-1   
+  * KB snatch > switch hand swing > snatch  
+  * KB clean > Single arm front squat    
+	- [x] 8x reps (4 each leg)   
 
 ## 2021-02-05
 	- [x] 5x rounds
@@ -245,7 +249,8 @@ KB clean > Single arm front squat
 	- [x] 20 min EMOM
 	- Odd min (scorpion bag)
 	- Even min (heavy bag)
-*wear a 25# weight vest
+	
+(wear a 25# weight vest)
 
 ## 2021-01-10
 	- [x] 4x Rounds
