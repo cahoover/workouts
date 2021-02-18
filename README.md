@@ -1,11 +1,12 @@
 # 2021 Workouts
 
-This is a daily workout log. Check out video demos [here](https://vimeo.com/user124837051).
+This is my daily workout log.
 
-+ This `README.md` file contains workouts back to `2020-06-27`  
++ [GitHub repo](https://github.com/mjfrigaard/workouts)  
++ Video demos [here](https://vimeo.com/user124837051)  
++ The `README.md` file contains workouts back to `2020-06-27`  
 + The `img/` folder contains image files for daily workouts by year (`2020/` and `2021/`)  
-+ The `img/2020/` folder contains sub-folders for workouts by type:
-
++ The `img/2020/` folder contains sub-folders for workouts by type:  
 ```
 2020/
     ├── 2020-barbell
@@ -19,10 +20,10 @@ This is a daily workout log. Check out video demos [here](https://vimeo.com/user
     └── 2020-work-rest
 ```
 
-
 ## To-do
 
-Update Vimeo videos [here](https://github.com/mjfrigaard/workouts#left-off-here)
+1. 2021-02-17: Update Vimeo videos [here](https://github.com/mjfrigaard/workouts#left-off-here)  
+
 
 ## 2021-02-17
 
