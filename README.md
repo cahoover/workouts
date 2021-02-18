@@ -124,7 +124,7 @@
 - 25x double-unders
 - 12x single arm DB snatch (@55#)
 
-<iframe src="https://player.vimeo.com/video/507695569" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+![](https://player.vimeo.com/video/507695569)
 
 ## 2021-02-01
 
