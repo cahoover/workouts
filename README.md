@@ -2,9 +2,9 @@
 
 ## 2021-02-17
 
-- [x] 8 rounds
-* DB deadlift + DB curl and press
-* DB goblet squats
+- [x] 8x rounds
+* 8x DB deadlift + DB curl and press
+* 8x DB goblet squats
 
 ## 2021-02-16
 
@@ -119,9 +119,12 @@
 
 ## 2021-02-02
 
-- [x] EMOM for 20 Minutes
-* 20x KB Swings
-* 15x Ball Slams
+- [x] EMOM x 21 min
+- 15x push-ups
+- 25x double-unders
+- 12x single arm DB snatch (@55#)
+
+<iframe src="https://player.vimeo.com/video/507695569" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## 2021-02-01
 
