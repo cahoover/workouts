@@ -2,7 +2,7 @@
 
 ## 2021-02-17
 
-- [ ] 8 rounds
+- [x] 8 rounds
 * DB deadlift + DB curl and press
 * DB goblet squats
 
@@ -458,154 +458,114 @@ All from floor
 * 10x DB deadlifts
 * 8x DB hang clean
 * 10x DB push press
-* 12x situps
+* 12x sit-ups
 * 15x squats
 
 ## 2020-12-15
 
 - [x] 6x Rounds:
 
-DB movements           reps
----------------------  -----
-Push jerk              8x   
-Hang power clean       8x   
-Power clean and jerk   8x   
-Front rack carry       8x   
+- 8x Push jerk              
+- 8x Hang power clean          
+- 8x Power clean and jerk      
+- 8x Front rack carry          
 
 ## 2020-12-14
 
 - [x] 8x Rounds:
-
-DB movements           reps
----------------------  -----
-Split jerk             12x  
-Power clean and jerk   12x  
+- 12x Split jerk            
+- 12x Power clean and jerk  
 
 ## 2020-12-13
 
 - [x] 5x Rounds:
-
-DB movements   reps
--------------  -----
-Farmer carry   10x  
-Split jerk     10x  
-Strict press   10x  
+- 10x Farmer carry   
+- 10x Split jerk     
+- 10x Strict press   
 
 ## 2020-12-12
 
 - [x] 6x Rounds:
-
-DB movements         reps
--------------------  -----
-Hang power snatch    6x   
-Split jerk           6x   
-Ground-to-overhead   6x   
-Strict press         6x   
+- 6x Hang power snatch   
+- 6x Split jerk          
+- 6x Ground-to-overhead  
+- 6x Strict press        
 
 ## 2020-12-11
 
 - [x] 4x Rounds:
 
-DB movements     reps
----------------  -----
-Goblet squat     8x   
-Z-press          8x   
-Bent over rows   8x   
-Farmer carry     8x   
+- 8x Goblet squat     
+- 8x Z-press          
+- 8x Bent over rows   
+- 8x Farmer carry     
 
 ## 2020-12-10
 
 - [x] 6x Rounds:
-
-DB movements                reps
---------------------------  -----
-Hang power clean and jerk   8x   
-Squat clean                 8x   
-Push press                  8x   
-Overhead carry              8x  
+- 8x Hang power clean and jerk
+- 8x Squat clean               
+- 8x Push press                
+- 8x Overhead carry            
 
 ## 2020-12-09
 
 - [x] 6x Rounds:
-
-DB movements       reps
------------------  -----
-Push press         10x  
-Front rack carry   10x  
-Renegade row       10x  
+- 10x Push press   
+- 10x Front rack carry  
+- 10x Renegade row       
 
 ## 2020-12-08
 
 - [x] 5x Rounds:
-
-DB movements                reps
---------------------------  -----
-Hang power clean and jerk   8x   
-Front rack lunge            8x   
-Ground-to-overhead          8x   
-Front rack carry            8x  
+- 8x Hang power clean and jerk     
+- 8x Front rack lunge           
+- 8x Ground-to-overhead        
+- 8x Front rack carry          
 
 ## 2020-12-07
 
 - [x] 6x Rounds:
-
-DB movements         reps
--------------------  -----
-Curl and press       8x   
-Farmer carry lunge   8x   
-Push press           8x
+- 8x Curl and press          
+- 8x Farmer carry lunge   
+- 8x Push press           
 
 
 ## 2020-12-06
 
 - [x] 4x rounds:
-
-DB movements           reps
----------------------  -----
-Power clean and jerk   8x   
-Renegade row           8x   
-Thruster               8x   
+- 10x Power clean and jerk  
+- 10x Renegade row          
+- 10x Thruster              
 
 ## 2020-12-05
 
 - [x] 5x Rounds:
-
-DB movements               reps
--------------------------  -----
-Floor press                8x   
-Squat clean                8x   
-Power snatch + thrusters   8x   
+- 10x Floor press                
+- 10x Squat clean               
+- 10x Power snatch + thrusters  
 
 
 ## 2020-12-04
 
 - [x] 4x Rounds
-
-DB movements           reps
----------------------  -----
-Bent over rows         8x   
-Power clean and jerk   8x   
-Front rack lunge       8x   
+- 10x Bent over rows      
+- 10x Power clean and jerk  
+- 10x Front rack lunge     
 
 ## 2020-12-03
 
 - [x] 4x Rounds:
-
-DB movements         reps
----------------     -----
-Overhead carry         8x   
-Farmer carry lunge     8x   
-Push jerk              8x  
+- 10x Overhead carry        
+- 10x Farmer carry lunge    
+- 10x Push jerk             
 
 ## 2020-12-02
 
 - [x] 3x Rounds:
-
-DB movements             reps
------------------------  -----
-Bent over rows           10x  
-Double arm hang snatch   10x  
-Hang power snatch        10x
+- 10x Bent over rows   
+- 10x Double arm hang snatch   
+- 10x Hang power snatch         
 
 ## 2020-12-01
 
@@ -670,6 +630,7 @@ Hang power snatch        10x
 * 25x double-unders
 
 ## 2020-11-22
+
 - [x] EMOM x 24 min
 * 10x KB swing
 * 12x devils press
@@ -763,158 +724,123 @@ Hang power snatch        10x
 ## 2020-11-09
 
 (Slow and long)
-
 - [x] 8 rounds
-
-DB movements        reps
------------------  ------
-Overhead carry       8x  
-Hang power clean     8x  
-Renegade row         8x
+- 10x Overhead carry       
+- 10x Hang power clean     
+- 10x Renegade row        
 
 ## 2020-11-08
 
 (Slow and long)
-
 - [x] 8 rounds
-
-DB movements    reps
--------------  ------
-Push jerk        8x  
-Power clean      8x  
-Man maker        8x  
+- 10x Push jerk        
+- 10x Power clean      
+- 10x Man maker        
 
 ## 2020-11-07
 
 (Slow and long)
-
 - [x] 10 rounds
-
-DB movements    reps
--------------  ------
-Thruster         8x  
-Hammer Curls    10x  
-Deadlift        10x   
+- 10x Thruster         
+- 10x Hammer Curls    
+- 10x Deadlift         
 
 
 ## 2020-11-06
 
 (Slow and long)
-
 - [x] 10 rounds
-
-DB movements           reps
----------------------  -----
-Push jerk              10x  
-Farmer carry lunge     10x  
-Power clean and jerk   10x  
-Bear crawls            10x  
-Renegade row           10x  
+- 10x Push jerk              
+- 10x Farmer carry lunge     
+- 10x Power clean and jerk   
+- 10x Bear crawls            
+- 10x Renegade row           
 
 ## 2020-11-05
 
 (Slow and long)
-
 - [x] 10 rounds
-
-DB movements                reps
---------------------------  -----
-Hang power clean and jerk   10x  
-Double arm hang snatch      10x  
-Push jerk                   10x  
-Ground-to-overhead          10x  
-Front rack lunge            10x  
+- 10x Hang power clean and jerk   
+- 10x Double arm hang snatch      
+- 10x Push jerk                   
+- 10x Ground-to-overhead          
+- 10x Front rack lunge            
 
 ## 2020-11-04
 
 (Slow and long)
-
 - [x] 10 rounds
-
-DB movements       reps
------------------  -----
-Front rack carry   10x  
-Goblet squat       10x  
-Farmer carry       10x  
-Thruster           10x  
-Push jerk          10x  
+- 10x Front rack carry   
+- 10x Goblet squat       
+- 10x Farmer carry       
+- 10x Thruster           
+- 10x Push jerk          
 
 ## 2020-11-03
 
 (Slow and long)
-
 - [x] 10 rounds
-
-DB movements       reps
------------------  -----
-Push press         10x  
-Overhead carry     10x  
-Front rack lunge   10x  
-Curl and press     10x  
-Man maker          10x  
+- 10x Push press         
+- 10x Overhead carry     
+- 10x Front rack lunge   
+- 10x Curl and press     
+- 10x Man maker          
 
 ## 2020-11-02
 
 (Slow and long)
-
 - [x] 10 rounds
-
-DB movements     reps
----------------  -----
-Goblet squat     10x  
-Strict press     10x  
-Overhead lunge   10x  
-Z-press          10x  
-Curl and press   10x  
+- 10x Goblet squat     
+- 10x Strict press     
+- 10x Overhead lunge   
+- 10x Z-press          
+- 10x Curl and press   
 
 ## 2020-11-01
+
 (Slow and long)
 - [x] 10 rounds
-DB movements                reps
---------------------------  -----
-Curl and press              10x  
-Front squat                 10x  
-Hang power clean and jerk   10x  
-Squat clean                 10x  
-Power clean                 10x
+- 10x Curl and press              
+- 10x Front squat                 
+- 10x Hang power clean and jerk   
+- 10x Squat clean                 
+- 10x Power clean                 
 
 ## 2020-10-31
+
 (Slow and long)
 - [x] 10 rounds
-DB movements       reps
------------------  -----
-Push press         10x  
-Front rack lunge   10x  
-Overhead carry     10x  
-Strict press       10x  
-Bent over rows     10x
+- 10x Push press         
+- 10x Front rack lunge   
+- 10x Overhead carry     
+- 10x Strict press       
+- 10x Bent over rows     
 
 ## 2020-10-30
+
 (Slow and long)
 - [x] 10 rounds
-DB movements         reps
--------------------  -----
-Ground-to-overhead   10x  
-Squat clean          10x  
-Curl and press       10x  
-Hang power snatch    10x  
-Devil's press        10x
+- 10x Ground-to-overhead   
+- 10x Squat clean          
+- 10x Curl and press       
+- 10x Hang power snatch    
+- 10x Devil's press        
 
 
 ## 2020-10-29
+
 (Slow and long)
 - [x] 10 rounds
-DB movements           reps
----------------------  -----
-Power clean and jerk   10x  
-Overhead carry         10x  
-Split jerk             10x  
-Renegade row           10x  
-Burpee                 10x  
+- 10x Power clean and jerk     
+- 10x Overhead carry         
+- 10x Split jerk              
+- 10x Renegade row             
+- 10x Burpee                   
 
 
 
 ## 2020-10-28
+
 (Slow and long)
 - [x] 10 rounds               
 - Squat clean             
@@ -925,6 +851,7 @@ Burpee                 10x
 
 
 ## 2020-10-27
+
 (Slow and long)
 - [x] 10 rounds
 * 12x Suitcase Lunge
@@ -933,6 +860,7 @@ Burpee                 10x
 
 
 ## 2020-10-26
+
 (Slow and long)
 - [x] 10 rounds
 * 10x Step ups
@@ -941,6 +869,7 @@ Burpee                 10x
 
 
 ## 2020-10-25
+
 (Slow and long)
 - [x] 10 rounds
 * 12x Goblet Squats
@@ -949,28 +878,33 @@ Burpee                 10x
 
 
 ## 2020-10-24
+
 - [x] 11 Rounds:
 - 9x Burpees
 - 15x Squats
 
 ## 2020-10-23
+
 - [x] EMOM for 20 minutes
 - Even: 10x Burpees
 - Odd: 12x Sit ups
 
 ## 2020-10-22
+
 - [x] With a weight vest:
 - 10-9-8-7-6-5-4-3-2-1x Push-Ups
 - 20-18-16-14-12-10-8-6-4-2x Lunges
 - 30-27-24-21-18-15-12-9-6-3x Squats
 
 ## 2020-10-21
+
 - [x] EMOM for 21 minutes  
 - 2x Burpees
 - 4x Squats  
 - 6x Step up and over  
 
 ## 2020-10-20
+
 - [x] 10 Rounds:  
 - 10x Burpees
 - 10x Squats
@@ -978,18 +912,21 @@ Burpee                 10x
 - 10x Sit-Ups
 
 ## 2020-10-19
+
 - [x] Add one rep each round (10 rounds):  
 - 1x Burpees  
 - 2x Squats    
 - 3x Sit-Ups  
 
 ## 2020-10-18
+
 - [x] 5 Rounds For Time  
 - 25x Air Squats
 - 25x Push-Ups
 - 25x Walking Lunges
 
 ## 2020-10-17
+
 - [x] 30 min cardio
 * 30 sec each:
 * double jab, round kick, cross, round kick,
@@ -1001,12 +938,14 @@ Burpee                 10x
 * abs
 
 ## 2020-10-16
+
 - [x] Snatch-tastic + ARMageddon (100x Snatches)
 - 100x DB snatches (broken up however you want)
 - 100x Hammer Curls
 - 100x Tricep Extensions
 
 ## 2020-10-15
+
 - [x] 10 Rounds of
 * 5x D-ball tosses
 * 5x Hang Power Clean (DB or KB)
@@ -1014,29 +953,34 @@ Burpee                 10x
 * 5x Goblet Squats
 
 ## 2020-10-14
+
 - [x] For 25 min:
 * Complex (2 DBs/KBs/TBs) x 3
 * Front Squat x 1 -> Suitcase Lunge x 2 -> Ground-to-overhead x 3
 * Double-under x 25
 
 ## 2020-10-13
+
 - [x] 7 rounds of:
 * 12 DB/TB Single Arm Snatch
 * 6x D-Ball Toss (@90lbs)
 * 12x Single Arm Overhead Sit-up
 
 ## 2020-10-12
+
 - [x] Every 90 sec x 15 rounds
 - 8x single arm power clean + push press (@85lb)  
 - 8x 100lb sandbag box step over  
 - 10x TB floor press (@53lb)  
 
 ## 2020-10-11
+
 - [x] 100x reps of
 * DB Deadlifts
 * DB Push-press
 
 ## 2020-10-10
+
 - [x] Every 90 sec x 12 rounds
 * 8x slunges
 * 10x push-ups
@@ -1047,23 +991,27 @@ Burpee                 10x
 * 25x double-unders
 
 ## 2020-10-09
+
 - [x] 21 min EMOM
 * 12x TD/DB snatches
 * 12x DB goblet squats
 * 12x KB swings
 
 ## 2020-10-08
+
 - [x] 6x Rounds of:
 - 10x DB Thrusters
 - 20x KB Swings
 
 ## 2020-10-07
+
 - [x] 20 min of:
 - 13x Squats
 - 13x Push-ups  
 - 13x Reverse Crunches
 
 ## 2020-10-06
+
 - [x] 8x Rounds of:
 * 12x DB Snatches
 * 25x double-unders
@@ -1072,11 +1020,13 @@ Burpee                 10x
 * 10x Push-ups
 
 ## 2020-10-05
+
 - [x] 6x Rounds in 15 min or less
 - 12x KB swings
 - 10x D-ball tosses
 
 ## 2020-10-04
+
 - [x] Every 3 minutes for 30 minutes
 * 6x DB Thrusters
 * 6x DB Hang Clean + Press
@@ -1084,6 +1034,7 @@ Burpee                 10x
 * 6x DB Weighted Step-ups/Lunges
 
 ## 2020-10-03
+
 - [x] 7x rounds
 * 3x Heavy D-Ball Toss
 * 6x Push-ups
@@ -1091,12 +1042,14 @@ Burpee                 10x
 * 12x DB/TB/Sandbag Deadlifts
 
 ## 2020-10-02
+
 - [x] 5 rounds of:
 * 10x Thrusters
 * 10x KB Swings
 * 10x D-ball tosses
 
 ## 2020-10-01
+
 - [x] 25 min of:
 * Single Arm DB Hang Snatch ->
 * Single Arm DB Front Squat ->
@@ -1108,6 +1061,7 @@ Burpee                 10x
 - 12x push-ups
 
 ## 2020-09-30
+
 - [x] 10 rounds
 - 6x floor press
 - 4x deadlifts (sandbag)
@@ -1118,6 +1072,7 @@ Burpee                 10x
 - 25x double-unders
 
 ## 2020-09-29
+
 - [x] Do 5 reps of each exercise for 23 min  
 - Single Arm Hang Power Snatch  
 - Double Arm T-Bell thrusters  
@@ -1126,12 +1081,14 @@ Burpee                 10x
 - Single Arm DB Hammer Curls  
 
 ## 2020-09-28
+
 - [x] Do 30x reps of the following:
 - Single Arm DB Snatches ->
 - Single Arm DB Thrusters ->
 - Single Arm Front Rack Lunges
 
 ## 2020-09-27
+
 - [x] Do 5 reps of each exercise for 23 min
 - Single Arm Hang Power Snatch ->
 	- DB Clean and Press ->
@@ -1141,16 +1098,19 @@ Burpee                 10x
 					- DB Goblet Squats
 
 ## 2020-09-26
+
 - [x] Add 2 reps each set (2x, 4x, 6x, 8x, 10x)
 * DB Burpees
 * DB Overhead Lunges
 
 ## 2020-09-25
+
 - [x] Add 2 reps each set (2x, 4x, 6x, 8x, 10x)
 - DB Man Makers
 - DB Push Press
 
 ## 2020-09-24
+
 - [x]  8x rounds
 * Single Arm DB High-pull ->
 	* Single Arm DB Hang Snatch ->
@@ -1158,12 +1118,14 @@ Burpee                 10x
 * 25x Double-Unders
 
 ## 2020-09-23
+
 - [x] Workout 1:
 - 75x burpees
 - [x] Workout 2:
 - 50 D-ball tosses @150#
 
 ## 2020-09-22
+
 Workout 1:
 - [x] 5 rounds:
 * 20x push-ups
@@ -1176,6 +1138,7 @@ Workout 2:
 * 8x Burpees
 
 ## 2020-09-21
+
 Workout 1:
 - [x] 6 rounds
 * 10x single arm high-pull + snatch
@@ -1225,7 +1188,7 @@ Workout 2:
 ## 2020-09-16
 
 * 25x weighted Slurpees (2x squats, 2 lunges, 1 burpee)
-* 20x double unders
+* 20x double-unders
 
 ## 2020-09-15
 
@@ -1235,17 +1198,20 @@ Workout 2:
 90# D-ball on shoulder, 53# KB in suitcase carry in opposite hand
 
 ## 2020-09-14
+
 - [x] 6 rounds:
 * 6x D-ball tosses
 * 8x DB clusters
 
 ## 2020-09-13
+
 - [x] 5 rounds of:
 - 6x 90# D-ball tosses
 - 8x 85# DB rows
 - 10x 50# DB snatches
 
 ## 2020-09-12
+
 Workout 1:
 - [x] 5x rounds
 * 10x DB deadlift
@@ -1257,6 +1223,7 @@ Workout 2:
 * 15x push-ups
 
 ## 2020-09-11
+
 - [x] Workout 1 "Old Scratch"
 …with a single DB/KB:
 - 2x goblet squat ->
@@ -1270,6 +1237,7 @@ Workout 2:
 - 15x push-ups
 
 ## 2020-09-10
+
 - [x] Workout 1 (5x rounds of)
 - 8x single arm clusters
 - 100 meter farmer carry (2x 53#)
@@ -1278,6 +1246,7 @@ Workout 2:
 - 50x Slurpees (squat + 2x lunges + 1 burpee)
 
 ## 2020-09-09
+
 - [x] Workout 1 (5x rounds of)
 - 8x DB rows
 - 8x Goblet squats
@@ -1288,6 +1257,7 @@ Workout 2:
 - 15x push-ups  
 
 ## 2020-09-08
+
 - [x] Workout 1 (5x rounds or 18 min time cap):
 - 12x KB Swings  
 - 10x DB deadlift + shrug  
@@ -1298,50 +1268,59 @@ Workout 2:
 - 15x push-ups
 
 ## 2020-09-07
+
 - [x] Every 90 seconds x 6 rounds
 * 10x DB single arm thruster
 * 6x D-ball tosses
 
 ## 2020-09-06
+
 - [x] Every 90 seconds x 12 rounds
 * 6x D-ball tosses
 * 10x DB snatch (alternating)
 
 ## 2020-09-05
+
 - [x] Every 2 min x 10 rounds
 * 10x ground-to-overhead (DB, KB or TB)
 * 15x squats
 
 ## 2020-09-04
+
 - [x] Every 90 seconds x 15 rounds
 * 6x DB deadlift  
 * 6x hammer curl + press  
 
 ## 2020-09-03
+
 - [x] Every 3 min cycle x 21 min
 * 8x Single arm thruster  
 * 6x D-ball toss  
 * 20x double-unders  
 
 ## 2020-09-02
+
 - [x] Every 2 min x 11 cycles
 * 12x KB swing  
 * 12x push-ups  
 * 20x double-unders  
 
 ## 2020-09-01
+
 - [x] Every 2 min x 12 cycles
 * 10 snatches (switch hand)  
 * 8x single arm front squats  
 * 6x single arm clean + press   
 
 ## 2020-08-31
+
 - [x] Every 3 min x 21 min
 * 10x Goblet squats
 * 6x Devil’s press
 * 25x Double-unders
 
 ## 2020-08-30
+
 - [x] Every 3 min x 24 min
 * 10x single arm overhead walking lunge
 * 6x d-ball toss (90#)
@@ -1349,12 +1328,14 @@ Workout 2:
 Wear a weight vest
 
 ## 2020-08-29
+
 - [x] 5 rounds  
 * 25x double-unders  
 * 5x single arm clean + press (each side)  
 * 50 meter farmer carry (1/2 bodyweight)  
 
 ## 2020-08-28
+
 - [x] EMOM x 25 min
 * 12x pushups  
 * 20x squats  
@@ -1363,35 +1344,41 @@ Wear a weight vest
 * 8x single arm clusters
 
 ## 2020-08-27
+
 - [x] EMOM x 21 min
 * 8x goblet squats
 * 10x DB curl and press
 * 12x DB floor press
 
 ## 2020-08-26
+
 - [x] 8 rounds
 * 12x KB snatches
 * 4x 150# D-ball tosses
 
 ## 2020-08-25
+
 - [x] 5 rounds:
 * sprint 100m
 * 5x 90# D-ball toss (overhead)
 * 8x thrusters
 
 ## 2020-08-24
+
 - [x] EMOM x 24 min
 * 16x switch hand swings
 * 8x DB clusters
 * 25x double-unders
 
 ## 2020-08-23
+
 - [x] 1x round
 * 100x KB swings
 * 100x Goblet squats
 * 100x overhead lunges
 
 ## 2020-08-22
+
 - [x] 10x rounds
 1. 8x pull-ups
 2. 16x push-ups
@@ -1399,6 +1386,7 @@ Wear a weight vest
 4. 5x 150# B-ball tosses
 
 ## 2020-08-21
+
 - [x] 5x rounds (20 min time cap)
 * 12x DB snatch
 * 10x TB snatch
@@ -1406,17 +1394,20 @@ Wear a weight vest
 Finisher: 4x 50m bodyweight farmers walk
 
 ## 2020-08-20
+
 - [x] EMOM x 20 min
 * 15x KB swings
 * 12x goblet squats
 
 ## 2020-08-19
+
 - [x] EMOM x 21 min
 * 12x DB deadlifts
 * 10x DB push-press
 * 8x single arm DB overhead sit-ups
 
 ## 2020-08-18
+
 - [x] EMOM x24 min  
 * 12x KB swings  
 * 6x single arm, switch hand devil’s press  
@@ -1424,18 +1415,21 @@ Finisher: 4x 50m bodyweight farmers walk
 * 6x D-ball lunges  
 
 ## 2020-08-17
+
 - [x] Every 2 minutes for 20 minutes
 - 30x Double-unders
 - 3x DB clusters
 - 8x burpees
 
 ## 2020-08-16
+
 - [x] EMOM x 21 min
 * 12x KB swings
 * 10x DB thrusters
 * 25x Double-unders
 
 ## 2020-08-15
+
 - [x] 2 rounds:
 * 40x KB switch-hand swings
 * 30x KB push press
@@ -1443,12 +1437,14 @@ Finisher: 4x 50m bodyweight farmers walk
 * 10x push-ups
 
 ## 2020-08-14
+
 - [x] 21 Minute EMOM
 * 10x snatches (DB/KB)
 * 10x renegade rows (DB/KB)
 * 30x double-unders
 
 ## 2020-08-13
+
 - [x] 10 rounds (30 seconds rest between sets)
 * 5x DB deadlifts  
 * 5x DB rows
@@ -1457,30 +1453,35 @@ Finisher: 4x 50m bodyweight farmers walk
 * 5x DB overhead reverse lunges
 
 ## 2020-08-12
+
 - [x] 21 min EMOM
 * 15x push-ups
 * 8x DB/KB full clean  
 * 25x double-unders
 
 ## 2020-08-11  
+
 - [x] 24 min EMOM
 * 12x switch-hand KB snatches
 * 6x 150# D-ball tosses
 * 25x double-unders
 
 ## 2020-08-10
+
 - [x] 21 min EMOM
 * 15x bodyweight squats
 * 12x DB alternating snatches
 * 4x heavy clean and press (single arm Thompson Bell 88#)
 
 ## 2020-08-09
-- [ ] 4 Rounds:
+
+- [x] 4 Rounds:
 * Farmer carry x400m (2x 53# Thompson bells)    
 * 4 x 12x thrusters (45# DBs)
 do 100m, do 12 thrusters, repeat 4 times
 
 ## 2020-08-08
+
 - [x] EMOM x 24 min*  
 * 15 push-ups
 * 5x single arm devils press
@@ -1488,43 +1489,51 @@ do 100m, do 12 thrusters, repeat 4 times
 with weight-vest (25#)
 
 ## 2020-08-07
+
 - [x] 20 min time cap
 * 50x 150# D-ball toss
 
 ## 2020-08-06
+
 - [x] Every 90 sec x 20 rounds   
 * 10x KB snatch
 * 6x SA thruster
 
 ## 2020-08-05
+
 - [x] Every 90 sec x 15 rounds   
 * 8x DB devils press
 * 20x double unders
 
 ## 2020-08-04
+
 - [x] Every 90 sec x 10 rounds 	
 * 10x KB swing
 * 6x D-ball toss
 
 ## 2020-08-03
+
 - [x] Every 3 Minutes x 8 Rounds  
 * 8x DB ground to overhead  
 * 8x KB snatches  
 * 30x double-unders
 
 ## 2020-08-02
+
 - [x] Every 3 Minutes x 7 Rounds  
 * 12x DB/KB snatches
 * 10x overhead lunges
 * 30x double-unders
 
 ## 2020-08-01
+
 - [x] Every 3 Minutes x 6 Rounds  
 * 10x DB thrusters
 * 8x KB swings
 * 25x double-unders
 
 ## 2020-07-31
+
 - min 1: 21 Kettlebell Swings
 - min 2: 15 Kettlebell Swings
 - min 3: 9 Kettlebell Swings
@@ -1538,28 +1547,33 @@ with weight-vest (25#)
 - min 11: 6x D-ball toss + 15 Russian Kettlebell Swings
 
 ## 2020-07-30
+
 - [x] Every 2 minutes for 24 minutes:
 * 5x single arm DB thrusters  
 * 4x single arm DB front squats
 * 3x single arm DB ground to overhead
 
 ## 2020-07-29
+
 - [x] Every 3 Minutes x 5 Rounds
 * 10x DB thrusters
 * 8x KB swings
 * 25x double-unders
 
 ## 2020-07-28
+
 - [x] In 10 min:
 100x D-ball tosses @90#
 
 ## 2020-07-19
+
 - D-ball toss @90#
 10-9–8–7-6-5-4-3-2-1
 - Suitcase lunges
 20-18-16-14-12-10-8-6-4-2
 
 ## 2020-07-18
+
 - [x] EMOM x 20 minutes  
 - 9x DB/KB deadlifts  
 - 8x DB/KB push press  
@@ -1567,22 +1581,26 @@ with weight-vest (25#)
 - 7x DB/KB DB clusters  
 
 ## 2020-07-16
+
 - [x]  EMOM x 21 min  
 * 10 DB snatch (@50#)
 * 5 D-ball toss (@90#)
 * 15 push-ups
 
 ## 2020-07-17
+
 - [x] 20 min EMOM   
 * 4x DBall tosses @150#
 
 ## 2020-07-15
+
 - [x] 7 rounds: 45# DB
 * 7x Cleans  
 * 7x Thrusters  
 * 7x Burpee over weights  
 
 ## 2020-07-14
+
 - [x] 9x min EMOM  
 1. 12x shoulder-2-overhead   
 2. 12x suitcase lunge   
@@ -1596,9 +1614,8 @@ with weight-vest (25#)
 2. 6x DB overhead lunge  
 3. 30x double-unders  
 
-
-
 ## 2020-07-13
+
 - [x] 10 min EMOM   
 * 20x squats  
 * 2x of 2x DB/KB squat cleans + 1x DB/KB push press  
@@ -1607,6 +1624,7 @@ with weight-vest (25#)
 * 2x of sprawl + DB snatch + 2x DB overhead lunge  
 
 ## 2020-07-12
+
 - [x] 10 min EMOM
 * 10x 90# D-ball toss
 * 12x TB Hang Power Snatches
@@ -1615,10 +1633,12 @@ with weight-vest (25#)
 * 8x overhead lunge (DB or KB)
 
 ## 2020-07-10
+
 - [x] 20 min time cap:
 - 100x DBall tosses at 150#
 
 ## 2020-07-09
+
 - [x] 6 Minute EMOM
 - 8x 2-arm DB/KB ground to overhead   
 - 5x deck squats  
@@ -1633,6 +1653,7 @@ with weight-vest (25#)
 - 8x renegade rows  
 
 ## 2020-07-07
+
 - [x] 6 Minute EMOM
 - 15x KB swings  
 - 15x squats  
@@ -1647,6 +1668,7 @@ with weight-vest (25#)
 - 9x plyo push-ups
 
 ## 2020-07-06
+
 - [x] EMOM x 6 minutes:
 * 4x DB/KB goblet squat + 4x goblet lunges
 - [x] EMOM x 6 minutes:
@@ -1656,17 +1678,20 @@ with weight-vest (25#)
 * 3x DB/KB thrusters + 4x overhead lunges
 
 ## 2020-07-05
+
 - [x] EMOM x 14 min
 * 6x DB/KB burpee (with push-up)
 * 5x devil’s press
 
 ## 2020-07-04
+
 - [x] EMOM x 21 min
 * 8x DB thruster  
 * 10x KB alternating snatch  
 * 6x D-ball toss (@150)  
 
 ## 2020-07-03
+
 - [x] EMOM 1: 18 min   
 - 8x KB snatch  
 - 10x suitcase reverse lunge  
@@ -1675,6 +1700,7 @@ with weight-vest (25#)
 - 2x DB complex (DB burpee + DB hang clean + DB push press)  
 
 ## 2020-07-02
+
 - [x] EMOM 1: x 16 min:  
 1. 8x TB thruster  
 2. 12x alternating KB snatches
@@ -1684,6 +1710,7 @@ with weight-vest (25#)
 3. 12x overhead reverse lunges  
 
 ## 2020-07-01
+
 - [x] EMOM 1: 15 min  
 - 10x DB deadlifts     
 - 8x Single arm Z press    
@@ -1694,6 +1721,7 @@ with weight-vest (25#)
 - 5x Single arm DB sprawl + thrusters  
 
 ## 2020-06-30
+
 - [x] EMOM 2: 20 min   
 * 8x DB power clean  
 * 8x DB front squat  
@@ -1702,12 +1730,14 @@ with weight-vest (25#)
 * 8x DB hammer curls  
 
 ## 2020-06-29
+
 - [x] EMOM 1: 18 min  
 - 8x DB squat cleans  
 - 15x Push-ups
 - 10x Alternating KB/DB snatch
 
 ## 2020-06-28
+
 - [x] 1 Round of:  
 - 50x single arm DB hang clean & jerk
 - 50x alternating snatches
@@ -1722,6 +1752,7 @@ with weight-vest (25#)
 * 2x KB TGU  
 
 ## 2020-06-27
+
 - [x] EMOM 1: x 18 minutes
 * 10x Push-up
 * 10x DB single arm thrusters
