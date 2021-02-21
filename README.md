@@ -24,6 +24,32 @@ This is my daily workout log.
 
 1. 2021-02-17: Update Vimeo videos [here](https://github.com/mjfrigaard/workouts#left-off-here)  
 
+## 2021-02-21
+
+- [ ] 7x rounds
+ * 10x DB Single Arm Clean and Jerk  
+ * 25x Double-unders
+ * 8x Weighted sit-ups
+
+## 2021-02-20
+
+- [x] Every 3 min x 7 rounds
+ * 8x DB ground to overhead  
+ * 8x KB snatches
+ * 30x double-unders
+
+## 2021-02-19
+
+- [x] Every 3 min x 7 rounds
+ * 10x DB thrusters
+ * 8x KB swings  
+ * 25x double-unders
+
+## 2021-02-18
+
+- [x] Every 3 min x 7 rounds
+ * 10x DB thrusters
+ * 8x KB swings  
 
 ## 2021-02-17
 
