@@ -27,7 +27,7 @@ This is a daily workout log.
 
 **Single Arm Switch Hand Swing**: https://vimeo.com/466993111  
 **Single Arm DB Clusters**: https://vimeo.com/466994056  
-**DB Ground to Overhead**: https://vimeo.com/467000265/9a738e8398
+**DB Ground to Overhead**: https://vimeo.com/467000265/9a738e8398  
 **Dumbbell combo (Single Arm Snatch + Front Squat + Hang Power Clean + Push Press)**: https://vimeo.com/466994424  
 **DB Push Up + DB Power Clean + DB Full Clean + Press**: https://vimeo.com/466996496  
 **DB Deadlift + Hang Full Clean**: https://vimeo.com/466994764  
