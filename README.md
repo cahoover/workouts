@@ -1,14 +1,14 @@
 # Workouts
 
-This is my daily Workout log.
+This is a daily workout log.
 
 + [GitHub repo](https://github.com/mjfrigaard/Workouts)  
 + Video demos [here](https://vimeo.com/user124837051)  
-+ The `README.md` file contains Workouts back to `2020-06-27`  
-+ The [`img/`](https://github.com/mjfrigaard/workouts/tree/main/img) folder contains image files for daily Workouts by year:  
++ The `README.md` file contains workouts back to `2020-06-27`  
++ The [`img/`](https://github.com/mjfrigaard/workouts/tree/main/img) folder contains image files for daily workouts by year:  
   + [`2021/`](https://github.com/mjfrigaard/workouts/tree/main/img/2021)
   + [`2020/`](https://github.com/mjfrigaard/workouts/tree/main/img/2020)
-    + The `img/2020/` folder contains sub-folders for Workouts by type:  
+    + The `img/2020/` folder contains sub-folders for workouts by type:  
     ```
     2020/
         ├── 2020-barbell
@@ -21,11 +21,21 @@ This is my daily Workout log.
         ├── 2020-slam-balls
         └── 2020-Work-rest
     ```
+***
 
+## Demos
 
-## To-do
+**Single Arm Switch Hand Swing**: https://vimeo.com/466993111  
+**Single Arm DB Clusters**: https://vimeo.com/466994056  
+**DB Ground to Overhead**: https://vimeo.com/467000265/9a738e8398
+**Dumbbell combo (Single Arm Snatch + Front Squat + Hang Power Clean + Push Press)**: https://vimeo.com/466994424  
+**DB Push Up + DB Power Clean + DB Full Clean + Press**: https://vimeo.com/466996496  
+**DB Deadlift + Hang Full Clean**: https://vimeo.com/466994764  
+**Squat x 2 + Suitcase Lunge x 2 + Snatch x 2**: https://vimeo.com/466993599  
+**DB Clean + Press + Hammer Curl**: https://vimeo.com/467000511   
 
-1. 2021-02-17: Update Vimeo videos [here](https://github.com/mjfrigaard/Workouts#left-off-here)  
+***
+
 
 ## 2021-02-26
 
@@ -289,7 +299,7 @@ https://vimeo.com/505917813
 ## 2021-01-26
 
 - [x] EMOM x 24 Min
- - 8x DBall Tosses (4x 60#, 4x 90#)
+ - 8x D-Ball Tosses (4x 60#, 4x 90#)
  - 2x TGU (@55#)
  - 20x Squats  
 
@@ -690,7 +700,7 @@ https://vimeo.com/489662322
 - [x] Every 2 Min x 12 Rounds:  
  - 8x Single Arm DB Clusters (@50#)   
  - 12x Ab Rotation  
- - 6x DBall Tosses (@90#)         
+ - 6x D-Ball Tosses (@90#)         
 
 https://vimeo.com/488757712
 
@@ -748,7 +758,9 @@ https://vimeo.com/486858588
 - [x] 3x Rounds:
  - 10x Bent Over Rows   
  - 10x Double Arm Hang Snatch   
- - 10x Hang Power Snatch         
+ - 10x Hang Power Snatch       
+
+
 
 ## 2020-12-01
 
@@ -758,12 +770,16 @@ https://vimeo.com/486858588
  - 2x Front Squat
  - 2x Jerk
 
+ https://vimeo.com/486233541
+
 ## 2020-11-30
 - [x] 8x Rounds
  * 12x Ab Rotation
  * 10x Suitcase Lunge (Single Arm)
  * 8x Ground-to-Overhead (Single Arm)
  * 6x D-Ball Tosses
+
+
 
 ## 2020-11-29
 
@@ -788,6 +804,8 @@ https://vimeo.com/486858588
  * 12x Ab Rotation
  * 6x D-Balls
 
+https://vimeo.com/484636138
+
 ## 2020-11-26
 
 - [x] EMOM x 20 Min
@@ -805,11 +823,13 @@ https://vimeo.com/486858588
  * 8x KB Swings
  * 8x Weighted Sit-Ups
 
+https://vimeo.com/483381576
+
 ## 2020-11-23
 
 - [x] 10 Rounds
  * 10x Snatches
- * 6x DBall Tosses
+ * 6x D-Ball Tosses
  * 25x Double-Unders
 
 ## 2020-11-22
@@ -854,12 +874,18 @@ https://vimeo.com/486858588
  - 10x Goblet Squats
  - 12x Clean + Push Press (Double KB/DB)
 
+https://vimeo.com/480577500
+
+https://vimeo.com/481038175
+
 ## 2020-11-16
 
 - [x] 8 Rounds
  - 8x DB Clusters
  - 8x DB Suitcase Lunge
  - 8x DB Deadlifts/D-Ball Tosses
+
+https://vimeo.com/480086857
 
 ## 2020-11-15
 
@@ -874,6 +900,8 @@ https://vimeo.com/486858588
 
 - [x] 20 Min EMOM
  * 5x Single Arm DB Snatch + Thruster
+
+https://vimeo.com/479382423
 
 ## 2020-11-13
 
@@ -904,6 +932,8 @@ https://vimeo.com/486858588
  - 4-4-4-4-4 Goblet mantis get ups*
 (hold DB Unders chin, Reverse Lunge x2 = 1 Rep)
 
+https://vimeo.com/478262340
+
 ## 2020-11-09
 
 (Slow and long)
@@ -928,6 +958,7 @@ https://vimeo.com/486858588
  - 10x Hammer Curls    
  - 10x Deadlift         
 
+https://vimeo.com/476728671
 
 ## 2020-11-06
 
@@ -1059,6 +1090,8 @@ https://vimeo.com/486858588
  * 12x KB Swings
  * 12x DB Push Press
 
+https://vimeo.com/476483770
+
 
 ## 2020-10-24
 
@@ -1096,10 +1129,12 @@ https://vimeo.com/486858588
 
 ## 2020-10-19
 
-- [x] Add One Rep Each Round (10 Rounds):  
- - 1x Burpees  
- - 2x Squats    
- - 3x Sit-Ups  
+- [x] 100 Reps of:  
+- Single Arm DB Clusters  
+- Single Arm DB Row  
+- Reverse Crunches  
+
+https://vimeo.com/470058398
 
 ## 2020-10-18
 
@@ -1125,7 +1160,9 @@ https://vimeo.com/486858588
 - [x] Snatch-tastic + ARMageddon (100x Snatches)
  - 100x DB Snatches (broken up however you want)
  - 100x Hammer Curls
- - 100x Tricep Extensions
+ - 100x Tricep Extensions  
+
+ https://vimeo.com/469335001
 
 ## 2020-10-15
 
@@ -1142,6 +1179,8 @@ https://vimeo.com/486858588
  * Front Squat x 1 -> Suitcase Lunge x 2 -> Ground-to-Overhead x 3
  * Double-Unders x 25
 
+https://vimeo.com/468298878
+
 ## 2020-10-13
 
 - [x] 7 Rounds Of:
@@ -1149,12 +1188,16 @@ https://vimeo.com/486858588
  * 6x D-Ball Tosses (@90lbs)
  * 12x Single Arm Overhead Sit-up
 
+https://vimeo.com/467963707
+
 ## 2020-10-12
 
 - [x] Every 90 Seconds x 15 Rounds
  - 8x Single Arm Power Clean + Push Press (@85lb)  
  - 8x 100lb sandBag box step over  
  - 10x TB Floor Press (@53lb)  
+
+https://vimeo.com/467487646
 
 ## 2020-10-11
 
@@ -1164,14 +1207,12 @@ https://vimeo.com/486858588
 
 ## 2020-10-10
 
-- [x] Every 90 Seconds x 12 Rounds
- * 8x sLunges
- * 10x Push-Ups
- * 10x Reverse Crunches
-- [x] 8 Rounds:
- * 8x G—2-OH
- * DB rows
- * 25x Double-Unders
+- [x] 8 rounds:  
+  * 8x Ground-2-Overhead
+  * DB Rows  
+  * 25x Double-Unders  
+
+https://vimeo.com/466998157
 
 ## 2020-10-09
 
@@ -1179,6 +1220,8 @@ https://vimeo.com/486858588
  * 12x TD/DB Snatches
  * 12x DB Goblet Squats
  * 12x KB Swings
+
+https://vimeo.com/466998759
 
 ## 2020-10-08
 
@@ -1776,7 +1819,7 @@ with weight-vest (25#)
 ## 2020-07-17
 
 - [x] 20 Min EMOM   
- * 4x DBall Tosses @150#
+ * 4x D-Ball Tosses @150#
 
 ## 2020-07-15
 
@@ -1821,7 +1864,7 @@ with weight-vest (25#)
 ## 2020-07-10
 
 - [x] 20 Min Time cap:
- - 100x DBall Tosses at 150#
+ - 100x D-Ball Tosses at 150#
 
 ## 2020-07-09
 
