@@ -94,7 +94,7 @@ This is a daily workout log.
 ## 2021-02-20
 
 - [x] Every 3 Min x 7 Rounds
- * 8x DB ground to Overhead  
+ * 8x DB Ground To Overhead  
  * 8x KB Snatches
  * 30x Double-Unders
 
@@ -204,7 +204,7 @@ https://vimeo.com/510016136
 - [x] 12-10-8-6-4-2
  * KB Swing > Clean > Squat (One Arm)
 - [x] 2-4-6-8-10-12
- * DB Snatch > sprawl (One Arm)
+ * DB Snatch > Sprawl (One Arm)
 
 ## 2021-02-06
 
@@ -491,7 +491,7 @@ https://vimeo.com/497414019
  - Push-ups x 15  
  - Swings x 15  
  - Jabs x 30 Seconds  
- - DB ground to Overhead x 6 (@85#)  
+ - DB Ground To Overhead x 6 (@85#)  
 
 https://vimeo.com/497104802
 
@@ -595,7 +595,7 @@ https://vimeo.com/495944299
 
 - [x] 24 Min EMOM  
  - 20x Band Squats   
- - Single Arm sprawl + Cluster (@50#)   
+ - Single Arm Sprawl + Cluster (@50#)   
  - Scorpion Bag Work  
 
 https://vimeo.com/495579055
@@ -1414,7 +1414,7 @@ Workout 2:
 
 ## 2020-09-16
 
- * 25x Weighted Slurpees (2x Squats, 2 Lunges, 1 burpee)
+ * 25x Weighted Slurpees (2x Squats, 2 Lunges, 1 Burpees)
  * 20x Double-Unders
 
 ## 2020-09-15
@@ -1471,7 +1471,7 @@ Workout 2:
  - 100 meter fArmer Carry (2x 53#)
 
 - [x] Workout 2
- - 50x Slurpees (Squat + 2x Lunges + 1 burpee)
+ - 50x Slurpees (Squat + 2x Lunges + 1 Burpees)
 
 ## 2020-09-09
 
@@ -1638,7 +1638,7 @@ Finisher: 4x 50m bodyweight fArmers walk
 
 - [x] EMOM x24 Min  
  * 12x KB Swings  
- * 6x Single Arm, Switch Hand devil’s Press  
+ * 6x Single Arm, Switch Hand Devil’s Press  
  * 25x Double-Unders  
  * 6x D-Ball Lunges  
 
@@ -1668,7 +1668,7 @@ Finisher: 4x 50m bodyweight fArmers walk
 
 - [x] 21 Minute EMOM
  * 10x Snatches (DB/KB)
- * 10x renegade rows (DB/KB)
+ * 10x Renegade Rows (DB/KB)
  * 30x Double-Unders
 
 ## 2020-08-13
@@ -1742,7 +1742,7 @@ with weight-vest (25#)
 ## 2020-08-03
 
 - [x] Every 3 Minutes x 8 Rounds  
- * 8x DB ground to Overhead  
+ * 8x DB Ground To Overhead  
  * 8x KB Snatches  
  * 30x Double-Unders
 
@@ -1779,7 +1779,7 @@ with weight-vest (25#)
 - [x] Every 2 Min for 24 Min:
  * 5x Single Arm DB Thrusters  
  * 4x Single Arm DB Front Squats
- * 3x Single Arm DB ground to Overhead
+ * 3x Single Arm DB Ground To Overhead
 
 ## 2020-07-29
 
@@ -1795,10 +1795,12 @@ with weight-vest (25#)
 
 ## 2020-07-19
 
- - D-Ball Tosses @90#
 10-9–8–7-6-5-4-3-2-1
- - Suitcase Lunges
+ - D-Ball Tosses @90#  
+
 20-18-16-14-12-10-8-6-4-2
+ - Suitcase Lunges
+
 
 ## 2020-07-18
 
@@ -1830,7 +1832,7 @@ with weight-vest (25#)
 ## 2020-07-14
 
 - [x] 9x Min EMOM  
-1. 12x shoulder-2-Overhead   
+1. 12x Shoulder-2-Overhead   
 2. 12x Suitcase Lunge   
 3. 30x Double-Unders   
 - [x] 9x Min EMOM
@@ -1838,7 +1840,7 @@ with weight-vest (25#)
 2. 8x Front Rack Lunge  
 3. 30x Double-Unders  
 - [x] 9x Min EMOM
-1. 6x DB devil’s Press  
+1. 6x DB Devil’s Press  
 2. 6x DB Overhead Lunge  
 3. 30x Double-Unders  
 
@@ -1849,7 +1851,7 @@ with weight-vest (25#)
  * 2x of 2x DB/KB Squat Cleans + 1x DB/KB Push Press  
 - [x] 10 Min EMOM  
  * 12x Sit-Ups  
- * 2x of sprawl + DB Snatch + 2x DB Overhead Lunge  
+ * 2x of Sprawl + DB Snatch + 2x DB Overhead Lunge  
 
 ## 2020-07-12
 
@@ -1868,17 +1870,17 @@ with weight-vest (25#)
 ## 2020-07-09
 
 - [x] 6 Minute EMOM
- - 8x 2-Arm DB/KB ground to Overhead   
+ - 8x 2-Arm DB/KB Ground To Overhead   
  - 5x deck Squats  
 - [x] 6 Minute EMOM
- - 10x 2-Arm DB/KB ground to Overhead  
+ - 10x 2-Arm DB/KB Ground To Overhead  
  - 10x Push-ups  
 - [x] 6 Minute EMOM
- - 12x 2-Arm DB/KB ground to Overhead  
+ - 12x 2-Arm DB/KB Ground To Overhead  
  - 15x Sit-Ups  
 - [x] 4 Minute EMOM
  - 8x Single Arm Thrusters  
- - 8x renegade rows  
+ - 8x Renegade Rows  
 
 ## 2020-07-07
 
@@ -1901,15 +1903,15 @@ with weight-vest (25#)
  * 4x DB/KB Goblet Squat + 4x Goblet Lunges
 - [x] EMOM x 6 Min:
  * 8x DB/KB Clean + Push Press
- * from the ground Each Time
+ * from the ground each time
 - [x] EMOM x 6 Min:
  * 3x DB/KB Thrusters + 4x Overhead Lunges
 
 ## 2020-07-05
 
 - [x] EMOM x 14 Min
- * 6x DB/KB burpee (with push-up)
- * 5x devil’s Press
+ * 6x DB/KB Burpees (with Push-Ups)
+ * 5x Devil’s Press
 
 ## 2020-07-04
 
@@ -1925,7 +1927,7 @@ with weight-vest (25#)
  - 10x Suitcase Reverse Lunge  
 - [x] EMOM 2: 20 Min  
  - 6x D-Ball Tosses  
- - 2x DB complex (DB burpee + DB Hang Clean + DB Push Press)  
+ - 2x DB complex (DB Burpees + DB Hang Clean + DB Push Press)  
 
 ## 2020-07-02
 
@@ -1946,7 +1948,7 @@ with weight-vest (25#)
 
 - [x] EMOM 2: 20 Min  
  - 10x DB/KB Snatch (from dead stop)   
- - 5x Single Arm DB sprawl + Thrusters  
+ - 5x Single Arm DB Sprawl + Thrusters  
 
 ## 2020-06-30
 
@@ -1971,12 +1973,12 @@ with weight-vest (25#)
  - 50x Alternating Snatches
  - 50x Single Arm DB Clusters
 
-…straight into 50x paces with KB/DB in Suitcase Carry position
+…straight into 50x Paces with KB/DB in Suitcase Carry Position
 
 - [x] EMOM:  x 15 Min (HEAVY)  
  * 5x 150# D-Ball Tosses  
- * 4x DB burpee + renegade rows  
- * sprawl + push-up + row(L) + push-up + row(R) + stand up = 1  
+ * 4x DB Burpees + Renegade Rows  
+ * Sprawl + Push-Ups + Row(L) + Push-Ups + Row(R) + Stand Up = 1  
  * 2x KB TGU  
 
 ## 2020-06-27
@@ -1988,5 +1990,5 @@ with weight-vest (25#)
 
 - [x] EMOM 2:  x 21 Min
 1. 8x DB Hang Clean + Front Squat
-2. 6x DB Hang Power Clean + 2 Lunges (Rack position)
+2. 6x DB Hang Power Clean + 2 Lunges (Rack Position)
 3. 10x Overhead Weighted Sit-Up
