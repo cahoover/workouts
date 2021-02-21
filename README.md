@@ -14,7 +14,7 @@ This is my daily Workout log.
     ├── 2020-dballs
     ├── 2020-dbs
     ├── 2020-emoms
-    ├── 2020-kbs
+    ├── 2020-KBs
     ├── 2020-misc
     ├── 2020-slam-balls
     └── 2020-Work-rest
@@ -43,7 +43,7 @@ This is my daily Workout log.
 
 - [ ] 7x Rounds
  * 10x DB Single Arm Clean and Jerk  
- * 25x Double-unders
+ * 25x Double-Unders
  * 8x Weighted Sit-ups
 
 ## 2021-02-20
@@ -51,14 +51,14 @@ This is my daily Workout log.
 - [x] Every 3 min x 7 Rounds
  * 8x DB ground to Overhead  
  * 8x KB Snatches
- * 30x Double-unders
+ * 30x Double-Unders
 
 ## 2021-02-19
 
 - [x] Every 3 min x 7 Rounds
  * 10x DB Thrusters
  * 8x KB Swings  
- * 25x Double-unders
+ * 25x Double-Unders
 
 ## 2021-02-18
 
@@ -197,7 +197,7 @@ https://vimeo.com/508214225
 
 - [x] EMOM x 21 min
  - 15x Push-Ups
- - 25x Double-unders
+ - 25x Double-Unders
  - 12x Single Arm DB Snatch (@55#)
 
 https://player.vimeo.com/video/507695569
@@ -328,7 +328,7 @@ https://vimeo.com/502423925
 
 - [x] 10x Rounds
  * 10x DB Clusters
- * 30x Double-unders
+ * 30x Double-Unders
 
 ## 2021-01-17
 
@@ -353,7 +353,7 @@ https://vimeo.com/501596181
 
 - [x] 4 Rounds:
  * 10x Double-dumbbell Snatch
- * 25x Double-unders
+ * 25x Double-Unders
 
 ## 2021-01-14
 
@@ -376,9 +376,9 @@ https://vimeo.com/500186421
 
 - [x] EMOM x 20min
  * 20x Single Arm DB Snatch
- * 30x Double-unders
+ * 30x Double-Unders
  * 10x DB Burpees
- * 30x Double-unders
+ * 30x Double-Unders
 
 ## 2021-01-11
 
@@ -395,10 +395,10 @@ https://vimeo.com/499360968
 - [x] 4x Rounds
  * 15x Goblet Squats
  * 20x Single Arm DB Thruster (R)
- * 25x Double-unders
+ * 25x Double-Unders
  * 15x Goblet Squats
  * 20x Single Arm DB Thruster (L)
- * 25x Double-unders
+ * 25x Double-Unders
 
 ## 2021-01-09
 
@@ -662,7 +662,7 @@ https://vimeo.com/488757712
 
 - [x] 6x Rounds:
  - 8x Curl and Press          
- - 8x FArmer Carry Lunge   
+ - 8x Farmer Carry Lunge   
  - 8x Push Press           
 
 ## 2020-12-06
@@ -684,9 +684,9 @@ https://vimeo.com/488776175
 ## 2020-12-04
 
 - [x] 4x Rounds
- - 10x Bent over rows      
+ - 10x Bent Over Rows      
  - 10x Power Clean and Jerk  
- - 10x Front rack Lunge     
+ - 10x Front Rack Lunge     
 
 Playing with combos
 
@@ -696,7 +696,7 @@ https://vimeo.com/487385236/b9b5273439
 
 - [x] 4x Rounds:
  - 10x Overhead Carry        
- - 10x FArmer Carry Lunge    
+ - 10x Farmer Carry Lunge    
  - 10x Push Jerk          
 
 Thumb in or up?
@@ -710,7 +710,7 @@ https://vimeo.com/486858588
 ## 2020-12-02
 
 - [x] 3x Rounds:
- - 10x Bent over rows   
+ - 10x Bent Over Rows   
  - 10x Double Arm Hang Snatch   
  - 10x Hang Power Snatch         
 
@@ -765,16 +765,16 @@ https://vimeo.com/486858588
 ## 2020-11-24
 
 - [x] 8 Rounds
- * 8x weighted step-overs
- * 8x kb Swings
- * 8x weighted Sit-ups
+ * 8x Weighted step-overs
+ * 8x KB Swings
+ * 8x Weighted Sit-ups
 
 ## 2020-11-23
 
 - [x] 10 Rounds
  * 10x Snatches
  * 6x DBall Tosses
- * 25x Double-unders
+ * 25x Double-Unders
 
 ## 2020-11-22
 
@@ -789,7 +789,7 @@ https://vimeo.com/486858588
 - [x] 8 Rounds
  * 10x Single Arm Overhead Walking Lunge
  * 10x Single Arm Cluster
- * 25x Double-unders
+ * 25x Double-Unders
 
 ## 2020-11-20
 
@@ -802,7 +802,7 @@ https://vimeo.com/486858588
 
 - [x] EMOM x 20 min
  * DB Complex (4x Front Squat, 4x G2OH)
- * 25x Double-unders
+ * 25x Double-Unders
 
 ## 2020-11-18
 
@@ -843,7 +843,7 @@ https://vimeo.com/486858588
 
 - [x] 8 Rounds
  * 12x KB Alternating Swings
- * 12x KB Single Arm Front rack Lunge (6x each side)
+ * 12x KB Single Arm Front Rack Lunge (6x each side)
 
 ## 2020-11-12
 
@@ -857,8 +857,8 @@ https://vimeo.com/486858588
 ## 2020-11-11
 
 - [x] 6 Rounds
- - 25x Double-unders
- - 12x Overhead weighted sit ups
+ - 25x Double-Unders
+ - 12x Overhead Weighted sit ups
  - 6x Single-Arm Devil’s Press
 
 ## 2020-11-10
@@ -898,7 +898,7 @@ https://vimeo.com/486858588
 (Slow and long)
 - [x] 10 Rounds
  - 10x Push Jerk              
- - 10x FArmer Carry Lunge     
+ - 10x Farmer Carry Lunge     
  - 10x Power Clean and Jerk   
  - 10x Bear crawls            
  - 10x Renegade row           
@@ -911,7 +911,7 @@ https://vimeo.com/486858588
  - 10x Double Arm Hang Snatch      
  - 10x Push Jerk                   
  - 10x Ground-to-Overhead          
- - 10x Front rack Lunge            
+ - 10x Front Rack Lunge            
 
 ## 2020-11-04
 
@@ -919,7 +919,7 @@ https://vimeo.com/486858588
 - [x] 10 Rounds
  - 10x Front Rack Carry   
  - 10x Goblet Squat       
- - 10x FArmer Carry       
+ - 10x Farmer Carry       
  - 10x Thruster           
  - 10x Push Jerk          
 
@@ -929,7 +929,7 @@ https://vimeo.com/486858588
 - [x] 10 Rounds
  - 10x Push Press         
  - 10x Overhead Carry     
- - 10x Front rack Lunge   
+ - 10x Front Rack Lunge   
  - 10x Curl and Press     
  - 10x Man maker          
 
@@ -958,10 +958,10 @@ https://vimeo.com/486858588
 (Slow and long)
 - [x] 10 Rounds
  - 10x Push Press         
- - 10x Front rack Lunge   
+ - 10x Front Rack Lunge   
  - 10x Overhead Carry     
  - 10x Strict Press       
- - 10x Bent over rows     
+ - 10x Bent Over Rows     
 
 ## 2020-10-30
 
@@ -991,7 +991,7 @@ https://vimeo.com/486858588
 (Slow and long)
 - [x] 10 Rounds               
  - Squat Clean             
- - FArmer Carry Lunge      
+ - Farmer Carry Lunge      
  - Push Jerk               
  - Double Arm Hang Snatch  
  - Power Snatch + Thrusters
@@ -1135,7 +1135,7 @@ https://vimeo.com/486858588
 - [x] 8 Rounds:
  * 8x G—2-OH
  * DB rows
- * 25x Double-unders
+ * 25x Double-Unders
 
 ## 2020-10-09
 
@@ -1161,7 +1161,7 @@ https://vimeo.com/486858588
 
 - [x] 8x Rounds of:
  * 12x DB Snatches
- * 25x Double-unders
+ * 25x Double-Unders
 - [x] 10x Rounds of:
  * 4x DB Full Clean + Split Jerk
  * 10x Push-ups
@@ -1216,7 +1216,7 @@ https://vimeo.com/486858588
 - [x] 5 Rounds
  - 15x Push-Ups
  - 10x Reverse crunches
- - 25x Double-unders
+ - 25x Double-Unders
 
 ## 2020-09-29
 
@@ -1296,7 +1296,7 @@ Workout 2:
 - [x] 6 Rounds
  * 10x Reverse crunches
  * 15x Squats
- * 25x Double-unders
+ * 25x Double-Unders
 
 ## 2020-09-20
 
@@ -1317,7 +1317,7 @@ Workout 2:
 - [x] 5x Rounds
  * 6x D-Ball Tosses
  * 10x DB Clusters
- * 25x Double-unders
+ * 25x Double-Unders
 
 ## 2020-09-17
 
@@ -1336,8 +1336,8 @@ Workout 2:
 
 ## 2020-09-16
 
- * 25x weighted Slurpees (2x Squats, 2 Lunges, 1 burpee)
- * 20x Double-unders
+ * 25x Weighted Slurpees (2x Squats, 2 Lunges, 1 burpee)
+ * 20x Double-Unders
 
 ## 2020-09-15
 
@@ -1382,7 +1382,7 @@ Workout 2:
 …do 25 reps.
 
 - [x] Workout 2 (5x Rounds)
- - 25x Double-unders
+ - 25x Double-Unders
  - 15x Reverse-crunches
  - 15x Push-Ups
 
@@ -1446,14 +1446,14 @@ Workout 2:
 - [x] Every 3 min cycle x 21 min
  * 8x Single Arm Thruster  
  * 6x D-Ball Toss  
- * 20x Double-unders  
+ * 20x Double-Unders  
 
 ## 2020-09-02
 
 - [x] Every 2 min x 11 cycles
  * 12x KB Swing  
  * 12x Push-ups  
- * 20x Double-unders  
+ * 20x Double-Unders  
 
 ## 2020-09-01
 
@@ -1467,7 +1467,7 @@ Workout 2:
 - [x] Every 3 min x 21 min
  * 10x Goblet Squats
  * 6x Devil’s Press
- * 25x Double-unders
+ * 25x Double-Unders
 
 ## 2020-08-30
 
@@ -1480,7 +1480,7 @@ Wear a weight vest
 ## 2020-08-29
 
 - [x] 5 Rounds  
- * 25x Double-unders  
+ * 25x Double-Unders  
  * 5x Single Arm Clean + Press (each side)  
  * 50 meter fArmer Carry (1/2 bodyweight)  
 
@@ -1518,7 +1518,7 @@ Wear a weight vest
 - [x] EMOM x 24 min
  * 16x Switch Hand Swings
  * 8x DB Clusters
- * 25x Double-unders
+ * 25x Double-Unders
 
 ## 2020-08-23
 
@@ -1561,13 +1561,13 @@ Finisher: 4x 50m bodyweight fArmers walk
 - [x] EMOM x24 min  
  * 12x KB Swings  
  * 6x Single Arm, Switch Hand devil’s Press  
- * 25x Double-unders  
+ * 25x Double-Unders  
  * 6x D-Ball Lunges  
 
 ## 2020-08-17
 
 - [x] Every 2 minutes for 20 minutes
- - 30x Double-unders
+ - 30x Double-Unders
  - 3x DB Clusters
  - 8x burpees
 
@@ -1576,7 +1576,7 @@ Finisher: 4x 50m bodyweight fArmers walk
 - [x] EMOM x 21 min
  * 12x KB Swings
  * 10x DB Thrusters
- * 25x Double-unders
+ * 25x Double-Unders
 
 ## 2020-08-15
 
@@ -1591,7 +1591,7 @@ Finisher: 4x 50m bodyweight fArmers walk
 - [x] 21 Minute EMOM
  * 10x Snatches (DB/KB)
  * 10x renegade rows (DB/KB)
- * 30x Double-unders
+ * 30x Double-Unders
 
 ## 2020-08-13
 
@@ -1607,14 +1607,14 @@ Finisher: 4x 50m bodyweight fArmers walk
 - [x] 21 min EMOM
  * 15x Push-Ups
  * 8x DB/KB full Clean  
- * 25x Double-unders
+ * 25x Double-Unders
 
 ## 2020-08-11  
 
 - [x] 24 min EMOM
  * 12x switch-hand KB Snatches
  * 6x 150# D-Ball Tosses
- * 25x Double-unders
+ * 25x Double-Unders
 
 ## 2020-08-10
 
@@ -1626,7 +1626,7 @@ Finisher: 4x 50m bodyweight fArmers walk
 ## 2020-08-09
 
 - [x] 4 Rounds:
- * FArmer Carry x400m (2x 53# Thompson bells)    
+ * Farmer Carry x400m (2x 53# Thompson bells)    
  * 4 x 12x Thrusters (45# DBs)
 do 100m, do 12 Thrusters, repeat 4 times
 
@@ -1666,21 +1666,21 @@ with weight-vest (25#)
 - [x] Every 3 Minutes x 8 Rounds  
  * 8x DB ground to Overhead  
  * 8x KB Snatches  
- * 30x Double-unders
+ * 30x Double-Unders
 
 ## 2020-08-02
 
 - [x] Every 3 Minutes x 7 Rounds  
  * 12x DB/KB Snatches
  * 10x Overhead Lunges
- * 30x Double-unders
+ * 30x Double-Unders
 
 ## 2020-08-01
 
 - [x] Every 3 Minutes x 6 Rounds  
  * 10x DB Thrusters
  * 8x KB Swings
- * 25x Double-unders
+ * 25x Double-Unders
 
 ## 2020-07-31
 
@@ -1708,7 +1708,7 @@ with weight-vest (25#)
 - [x] Every 3 Minutes x 5 Rounds
  * 10x DB Thrusters
  * 8x KB Swings
- * 25x Double-unders
+ * 25x Double-Unders
 
 ## 2020-07-28
 
@@ -1754,15 +1754,15 @@ with weight-vest (25#)
 - [x] 9x min EMOM  
 1. 12x shoulder-2-Overhead   
 2. 12x Suitcase Lunge   
-3. 30x Double-unders   
+3. 30x Double-Unders   
 - [x] 9x min EMOM
 1. 8x DB/KB Hang Power Cleans  
-2. 8x Front rack Lunge  
-3. 30x Double-unders  
+2. 8x Front Rack Lunge  
+3. 30x Double-Unders  
 - [x] 9x min EMOM
 1. 6x DB devil’s Press  
 2. 6x DB Overhead Lunge  
-3. 30x Double-unders  
+3. 30x Double-Unders  
 
 ## 2020-07-13
 
@@ -1876,7 +1876,7 @@ with weight-vest (25#)
  * 8x DB Power Clean  
  * 8x DB Front Squat  
  * 8x DB push Jerk  
- * 8x DB Front rack Lunge  
+ * 8x DB Front Rack Lunge  
  * 8x DB Hammer Curls  
 
 ## 2020-06-29
@@ -1910,5 +1910,5 @@ with weight-vest (25#)
 
 - [x] EMOM 2:  x 21 min
 1. 8x DB Hang Clean + Front Squat
-2. 6x DB Hang Power Clean + 2 Lunges (rack position)
-3. 10x Overhead weighted Sit-Up
+2. 6x DB Hang Power Clean + 2 Lunges (Rack position)
+3. 10x Overhead Weighted Sit-Up
