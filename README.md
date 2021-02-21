@@ -5,7 +5,9 @@ This is my daily Workout log.
 + [GitHub repo](https://github.com/mjfrigaard/Workouts)  
 + Video demos [here](https://vimeo.com/user124837051)  
 + The `README.md` file contains Workouts back to `2020-06-27`  
-+ The [`img/`](https://github.com/mjfrigaard/workouts/tree/main/img) folder contains image files for daily Workouts by year ([`2020/`](https://github.com/mjfrigaard/workouts/tree/main/img/2020) and [`2021/`](https://github.com/mjfrigaard/workouts/tree/main/img/2021))  
++ The [`img/`](https://github.com/mjfrigaard/workouts/tree/main/img) folder contains image files for daily Workouts by year:
+  + [`2020/`](https://github.com/mjfrigaard/workouts/tree/main/img/2020)
+  + [`2021/`](https://github.com/mjfrigaard/workouts/tree/main/img/2021)
 + The `img/2020/` folder contains sub-folders for Workouts by type:  
 
 ```
