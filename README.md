@@ -48,7 +48,6 @@ This is a daily workout log.
 30-30-30-30-30  
  - Double-Unders
 
-
 ## 2021-02-25
 
 - [ ] 10x Rounds
