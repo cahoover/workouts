@@ -5,23 +5,23 @@ This is my daily Workout log.
 + [GitHub repo](https://github.com/mjfrigaard/Workouts)  
 + Video demos [here](https://vimeo.com/user124837051)  
 + The `README.md` file contains Workouts back to `2020-06-27`  
-+ The [`img/`](https://github.com/mjfrigaard/workouts/tree/main/img) folder contains image files for daily Workouts by year:
-  + [`2020/`](https://github.com/mjfrigaard/workouts/tree/main/img/2020)
++ The [`img/`](https://github.com/mjfrigaard/workouts/tree/main/img) folder contains image files for daily Workouts by year:  
   + [`2021/`](https://github.com/mjfrigaard/workouts/tree/main/img/2021)
-+ The `img/2020/` folder contains sub-folders for Workouts by type:  
+  + [`2020/`](https://github.com/mjfrigaard/workouts/tree/main/img/2020)
+    + The `img/2020/` folder contains sub-folders for Workouts by type:  
+    ```
+    2020/
+        ├── 2020-barbell
+        ├── 2020-bw
+        ├── 2020-dballs
+        ├── 2020-dbs
+        ├── 2020-emoms
+        ├── 2020-KBs
+        ├── 2020-misc
+        ├── 2020-slam-balls
+        └── 2020-Work-rest
+    ```
 
-```
-2020/
-    ├── 2020-barbell
-    ├── 2020-bw
-    ├── 2020-dballs
-    ├── 2020-dbs
-    ├── 2020-emoms
-    ├── 2020-KBs
-    ├── 2020-misc
-    ├── 2020-slam-balls
-    └── 2020-Work-rest
-```
 
 ## To-do
 
