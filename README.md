@@ -61,7 +61,6 @@ This is a daily workout log.
 - [ ] 10x Min EMOM
  - 10x Alternating Single Arm DB Hang Clean + Press
  - 10x Squats
-
 - [ ] 15x Min EMOM
  - 10x Single Arm Overhead Reverse Lunge
  - 10x Box Jumps
