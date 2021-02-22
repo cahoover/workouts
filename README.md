@@ -86,10 +86,12 @@ This is a daily workout log.
 
 ## 2021-02-21
 
-- [ ] 7x Rounds
+- [x] 7x Rounds
  * 10x DB Single Arm Clean and Jerk  
  * 25x Double-Unders
  * 8x Weighted Sit-Ups
+
+https://vimeo.com/515074622
 
 ## 2021-02-20
 
