@@ -78,10 +78,12 @@ This is a daily workout log.
 
 ## 2021-02-22
 
-- [ ] EMOM x 20 Min
+- [x] EMOM x 21 Min
  - 3 Single Arm DB Snatches (Each Arm)  
  - 6 Push-ups  
  - 9 Squats
+
+https://vimeo.com/515533781
 
 ## 2021-02-21
 
