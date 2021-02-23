@@ -39,8 +39,7 @@ This is a daily workout log.
 
 ## 2021-02-26
 
-- [ ] For Time
-
+- [ ] For Time (24 min timecap)
 10-15-20-15-10  
   - DB Burpee
   - Single Arm DB Hang Clean and Jerk  
@@ -51,30 +50,29 @@ This is a daily workout log.
 ## 2021-02-25
 
 - [ ] 10x Rounds
- - 10x Push-Presses  
- - 10x Goblet Squats
+ - 10x Push-Ups  
+ - 8x Goblet Reverse Lunges
  - 10x KB Swings
  - 6x D-Ball Tosses
 
 ## 2021-02-24
 
 - [ ] 10x Min EMOM
- - 10x Alternating Single Arm DB Hang Clean + Press
  - 10x Squats
+ - 8x Box Jumps
+
 - [ ] 15x Min EMOM
  - 10x Single Arm Overhead Reverse Lunge
- - 10x Box Jumps
+ - 10x Alternating Single Arm DB Hang Clean + Press
  - 20x Double-Unders
 
 ## 2021-02-23
 
 - [ ] EMOM x24 Min
  - 10x DB Goblet Squats  
- - 10x DB Burpees
- - 10x DB Curl and Press
- - 10x Devil's Press
- - 25x Double-Unders
- - REST  
+ - 8x Single Arm Devil's Press
+ - 10x Step-Ups
+ - 8x Sit-Ups
 
 ## 2021-02-22
 
