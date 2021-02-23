@@ -40,12 +40,13 @@ This is a daily workout log.
 ## 2021-02-26
 
 - [ ] For Time (24 min timecap)  
-10-15-20-15-10  
+
+10-15-20-15-10 reps of:
   - DB Burpee
   - Single Arm DB Hang Clean and Jerk  
 
-30-30-30-30-30  
- - Double-Unders
+30-30-30-30-30 reps of:
+  - Double-Unders
 
 ## 2021-02-25
 
