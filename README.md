@@ -23,7 +23,9 @@ This is a daily workout log.
     ```
 ***
 
-## Demos
+## Sample Demo Videos
+
+These are some demos of the typical exercises you'll find in the workouts:
 
 + [**Single Arm Switch Hand Swing**](https://vimeo.com/466993111)     
 + [**Single Arm DB Clusters**](https://vimeo.com/466994056)   
@@ -36,6 +38,7 @@ This is a daily workout log.
 
 ***
 
+# 2021 Workouts
 
 ## 2021-02-26
 
@@ -523,6 +526,7 @@ https://vimeo.com/497104802
 
 # 2020 Workouts (phase 2)
 
+This is the 2nd half of 2020 workouts (starting in late June). All prior workouts are stored as image files in the [2020 folder](https://github.com/mjfrigaard/workouts/tree/main/img/2020) (starting [here](https://raw.githubusercontent.com/mjfrigaard/workouts/main/img/2020/2020-03-09.png)).
 
 ## 2020-12-31
 
