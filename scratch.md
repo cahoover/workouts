@@ -1,6 +1,16 @@
 Scratch
 =========
 
+To add TOC to `README.md`, download [github-markdown-toc](https://github.com/ekalinin/github-markdown-toc), then run this:
+
+```bash
+./gh-md-toc ~/path/to/file/README.md
+```
+
+Copy and paste into `README.md`
+
+## Untested workouts
+
 - [x] 4x Rounds:
 - 8x Goblet squat
 - 8x Z-press
