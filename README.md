@@ -405,7 +405,6 @@ https://vimeo.com/512740745
  * 10x DB OH Lunges (L)
  * 10x DB Snatch (R)
  * 10x DB OH Lunges (R)
-
  * 10x DB Power Cleans (L)
  * 10x DB Front Squats (L)
  * 10x DB Power Cleans (R)
