@@ -39,7 +39,7 @@ This is a daily workout log.
 
 ## 2021-02-26
 
-- [ ] For Time (24 min timecap)
+- [ ] For Time (24 min timecap)  
 10-15-20-15-10  
   - DB Burpee
   - Single Arm DB Hang Clean and Jerk  
