@@ -4,7 +4,11 @@ Scratch
 To add TOC to `README.md`, download [github-markdown-toc](https://github.com/ekalinin/github-markdown-toc), then run this:
 
 ```bash
-./gh-md-toc ~/path/to/file/README.md
+./gh-md-toc ~/Dropbox/@gym/workouts README.md
+# or
+./gh-md-toc https://github.com/mjfrigaard/workouts/blob/main/README.md
+# or write it to file
+./gh-md-toc https://github.com/mjfrigaard/workouts/blob/main/README.md > toc.md
 ```
 
 Copy and paste into `README.md`

@@ -316,11 +316,13 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-02-23
 
-- [ ] EMOM x24 Min
+- [x] EMOM x24 Min
  - 10x DB Goblet Squats  
  - 8x Single Arm Devil's Press
  - 10x Step-Ups
  - 8x Sit-Ups
+
+https://vimeo.com/515999696
 
 ## 2021-02-22
 
