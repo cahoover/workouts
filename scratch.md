@@ -1,6 +1,8 @@
 Scratch
 =========
 
+## Adding TOC 
+
 To add TOC to `README.md`, download [github-markdown-toc](https://github.com/ekalinin/github-markdown-toc), then run this:
 
 ```bash
