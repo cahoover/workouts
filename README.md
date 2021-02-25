@@ -1,4 +1,4 @@
-Table of Contents
+Daily Dose (workout log)
 =================
 
    * [Workouts](#workouts)
