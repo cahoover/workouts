@@ -286,7 +286,7 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-02-26
 
-- [ ] For Time (24 min timecap)  
+- [ ] For Time (24 min time-cap)  
 
 10-15-20-15-10 reps of:
   - DB Burpee
