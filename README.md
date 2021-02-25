@@ -305,14 +305,16 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-02-24
 
-- [ ] 10x Min EMOM
+- [x] 10x Min EMOM
  - 10x Squats
  - 8x Box Jumps
 
-- [ ] 15x Min EMOM
+- [x] 15x Min EMOM
  - 10x Single Arm Overhead Reverse Lunge
  - 10x Alternating Single Arm DB Hang Clean + Press
  - 20x Double-Unders
+
+https://vimeo.com/516484078
 
 ## 2021-02-23
 
