@@ -287,11 +287,9 @@ These are some demos of the typical exercises you'll find in the workouts:
 ## 2021-02-26
 
 - [ ] For Time (24 min timecap)  
-
 10-15-20-15-10 reps of:
   - DB Burpee
   - Single Arm DB Hang Clean and Jerk  
-
 30-30-30-30-30 reps of:
   - Double-Unders
 
@@ -308,7 +306,6 @@ These are some demos of the typical exercises you'll find in the workouts:
 - [x] 10x Min EMOM
  - 10x Squats
  - 8x Box Jumps
-
 - [x] 15x Min EMOM
  - 10x Single Arm Overhead Reverse Lunge
  - 10x Alternating Single Arm DB Hang Clean + Press
