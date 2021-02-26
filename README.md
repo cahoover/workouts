@@ -297,11 +297,13 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-02-25
 
-- [ ] 10x Rounds
+- [x] 10x Rounds
  - 10x Push-Ups  
  - 8x Goblet Reverse Lunges
  - 10x KB Swings
  - 6x D-Ball Tosses
+
+https://vimeo.com/516979300
 
 ## 2021-02-24
 
