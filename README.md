@@ -1,9 +1,17 @@
 Daily Dose (workout log)
 =================
 
+   * [Daily Dose (workout log)](#daily-dose-workout-log)
    * [Workouts](#workouts)
       * [Sample Demo Videos](#sample-demo-videos)
    * [2021 Workouts](#2021-workouts)
+      * [2021-03-05](#2021-03-05)
+      * [2021-03-04](#2021-03-04)
+      * [2021-03-03](#2021-03-03)
+      * [2021-03-02](#2021-03-02)
+      * [2021-03-01](#2021-03-01)
+      * [2021-02-28](#2021-02-28)
+      * [2021-02-27](#2021-02-27)
       * [2021-02-26](#2021-02-26)
       * [2021-02-25](#2021-02-25)
       * [2021-02-24](#2021-02-24)
@@ -283,9 +291,62 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 # 2021 Workouts
 
+## 2021-03-05
+
+- [ ] 10 Rounds
+ - 10x DB Single Arm Snatches
+ - 10x DB/TB Floor Press
+ - 6x Weighted Step-Ups
+
+## 2021-03-04
+
+- [ ] 24 min EMOM  
+ - 15x Squats
+ - 6x D-Ball Tosses
+ - 15x Push-Ups  
+ - 12x DB Push Press  
+
+## 2021-03-03
+
+- [ ] 8x Rounds  
+  - 8x DB Hang Squat Cleans  
+  - 12x KB Swings
+
+## 2021-03-02
+
+- [ ] For Time
+ - 10x DB Squat + Tricep Extensions
+ - 8x DB Double Front Rack Squat + Reverse Lunge
+ - 10x DB Arnold Press (curl + press) from knees
+ - 8x DB Alternating Chinese Row
+
+## 2021-03-01
+
+- [ ] 20 min EMOM
+ - 12x DB Hang Clean + Press
+ - 10x DB Suitcase Walking Lunges
+ - 12x Push-Ups
+ - 10x Squats
+
+## 2021-02-28
+
+- [ ] 10-9-8-7-6-5-4-3-2-1 reps of:  
+ - DB Snatch
+ - Sit-Ups  
+ - DB Single Arm Thruster
+ - Lunges  
+
+## 2021-02-27
+
+- [ ] 50 reps of:  
+ - 4x Devil's clean  
+ - 3x Front Squats
+ - 2x DB Hang-to-Overhead
+
+
 ## 2021-02-26
 
-- [ ] For Time (24 min time-cap)  
+- [x] For Time (24 min time-cap)  
 
 10-15-20-15-10 reps of:
   - DB Burpee
