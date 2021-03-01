@@ -308,8 +308,8 @@ These are some demos of the typical exercises you'll find in the workouts:
 ## 2021-03-03
 
 - [ ] 8x Rounds  
-  - 8x DB Hang Squat Cleans  
-  - 12x KB Swings
+ - 8x DB Hang Squat Cleans  
+ - 12x KB Swings
 
 ## 2021-03-02
 
