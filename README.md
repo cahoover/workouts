@@ -329,11 +329,13 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-02-28
 
-- [ ] 10-9-8-7-6-5-4-3-2-1 reps of:  
+- [x] 10-9-8-7-6-5-4-3-2-1 reps of:  
  - DB Snatch
  - Sit-Ups  
  - DB Single Arm Thruster
  - Lunges  
+
+https://vimeo.com/517967326
 
 ## 2021-02-27
 
