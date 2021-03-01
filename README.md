@@ -337,10 +337,12 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-02-27
 
-- [ ] 50 reps of:  
+- [x] 50 reps of:  
  - 4x Devil's clean  
  - 3x Front Squats
  - 2x DB Hang-to-Overhead
+
+https://vimeo.com/517654309
 
 
 ## 2021-02-26
