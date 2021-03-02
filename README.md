@@ -321,11 +321,13 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-03-01
 
-- [ ] 20 min EMOM
+- [x] 20 min EMOM
  - 12x DB Hang Clean + Press
  - 10x DB Suitcase Walking Lunges
  - 12x Push-Ups
  - 10x Squats
+
+https://vimeo.com/518361173
 
 ## 2021-02-28
 
