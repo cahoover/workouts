@@ -308,16 +308,18 @@ These are some demos of the typical exercises you'll find in the workouts:
 ## 2021-03-03
 
 - [ ] 8x Rounds  
- - 8x DB Hang Squat Cleans  
+ - 8x DB Snatch + Thruster  
  - 12x KB Swings
 
 ## 2021-03-02
 
-- [ ] For Time
+- [x] For Time
  - 10x DB Squat + Tricep Extensions
  - 8x DB Double Front Rack Squat + Reverse Lunge
  - 10x DB Arnold Press (curl + press) from knees
  - 8x DB Alternating Chinese Row
+
+https://vimeo.com/519059635
 
 ## 2021-03-01
 
