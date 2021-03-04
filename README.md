@@ -299,15 +299,31 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-03-04
 
+**AM Workout:**
+*had access to gym, took advantage*
+ - 3 sets/5 reps barbell back squat @135#
+ - 3 sets/5 reps barbell front squat @135#
+ - 12 KB swing @53#
+ - 2 sets/5 reps barbell back squat @185#
+ - 2 sets/5 reps barbell front squat @185#
+ - 12 KB swing @53#
+ - 1 set/5 reps barbell back squat @225#
+ - 1 set/5 reps barbell front squat @225#
+ - 12 KB swing @53#
+ - 3 sets/5 reps of barbell power snatch @135#
+ - 40 meter sled drag @ ~250#s (4 reps)
+
+**PM Workout:**
 - [ ] 24 min EMOM  
  - 15x Squats
  - 6x D-Ball Tosses
  - 15x Push-Ups  
  - 12x DB Push Press  
 
+
 ## 2021-03-03
 
-- [ ] 8x Rounds  
+- [x] 8x Rounds  
  - 8x DB Snatch + Thruster  
  - 12x KB Swings
 
