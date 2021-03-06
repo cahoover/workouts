@@ -298,6 +298,8 @@ These are some demos of the typical exercises you'll find in the workouts:
   - 10x DB snatches (@55#)
   - 12x weighted sit-ups (@25#)
 
+https://vimeo.com/520205576
+
 ## 2021-03-04
 
 **AM Workout:**
