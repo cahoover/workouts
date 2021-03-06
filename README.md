@@ -292,10 +292,11 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-03-05
 
-- [ ] 10 Rounds
- - 10x DB Single Arm Snatches
- - 10x DB/TB Floor Press
- - 6x Weighted Step-Ups
+- [x] 6 Rounds:
+  - 6x D-ball tosses (@90#)
+  - 10x DB curl and press (@45#)
+  - 10x DB snatches (@55#)
+  - 12x weighted sit-ups (@25#)
 
 ## 2021-03-04
 
@@ -314,7 +315,7 @@ These are some demos of the typical exercises you'll find in the workouts:
  - 40 meter sled drag @ ~250#s (4 reps)
 
 **PM Workout:**
-- [ ] 24 min EMOM  
+- [x] 24 min EMOM  
  - 15x Squats
  - 6x D-Ball Tosses
  - 15x Push-Ups  

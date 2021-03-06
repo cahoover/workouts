@@ -33,3 +33,8 @@ Copy and paste into `README.md`
 - 10x Power clean and jerk
 - 10x Renegade row
 - 10x Thruster
+
+- [ ] 10 Rounds
+ - 10x DB Single Arm Snatches
+ - 10x DB/TB Floor Press
+ - 6x Weighted Step-Ups
