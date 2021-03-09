@@ -23,11 +23,11 @@ Copy and paste into `README.md`
 - 8x Bent over rows
 - 8x Farmer carry
 
-- [x] 5x Rounds:
+- [ ] 5x Rounds:
 - 8x Hang power clean and jerk
 - 8x Front rack lunge
 - 8x Ground-to-overhead
-- 8x Front rack carry
+- 40m Farmer carry
 
 - [x] 4x rounds:
 - 10x Power clean and jerk

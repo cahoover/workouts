@@ -290,6 +290,44 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 # 2021 Workouts
 
+## 2021-03-12
+
+## 2021-03-11
+
+## 2021-03-10
+
+## 2021-03-09
+
+- [ ] 50 reps of:  
+  - 3x Single Arm DB Snatches
+  - 2x Single Arm DB Thrusters
+  - 1x DB Single Arm Ground-2-Overhead
+
+## 2021-03-08
+
+- [x] 50 reps of:
+ {- 2x DB Single Arm cleans
+  - 2x DB Single Arm Push Press
+  - 2x DB Thrusters} = 1 rep
+
+https://vimeo.com/521211407
+
+## 2021-03-07
+
+- [x] 5x Rounds:
+  - 8x Hang power clean and jerk
+  - 8x Front rack lunge
+  - 8x Ground-to-overhead
+  - 40m Farmer carry
+
+## 2021-03-06
+
+- [x] 1 hour bag work
+ - Scorpion bag (3 min round x10)
+ - Heavy bag (3 min round x10)
+
+https://vimeo.com/520441026
+
 ## 2021-03-05
 
 - [x] 6 Rounds:
