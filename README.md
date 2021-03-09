@@ -1,9 +1,21 @@
 Daily Dose (workout log)
 =================
 
+
+   * [Daily Dose (workout log)](#daily-dose-workout-log)
+
    * [Workouts](#workouts)
+
       * [Sample Demo Videos](#sample-demo-videos)
+
    * [2021 Workouts](#2021-workouts)
+      * [2021-03-12](#2021-03-12)
+      * [2021-03-11](#2021-03-11)
+      * [2021-03-10](#2021-03-10)
+      * [2021-03-09](#2021-03-09)
+      * [2021-03-08](#2021-03-08)
+      * [2021-03-07](#2021-03-07)
+      * [2021-03-06](#2021-03-06)
       * [2021-03-05](#2021-03-05)
       * [2021-03-04](#2021-03-04)
       * [2021-03-03](#2021-03-03)
@@ -68,7 +80,9 @@ Daily Dose (workout log)
       * [2021-01-03](#2021-01-03)
       * [2021-01-02](#2021-01-02)
       * [2021-01-01](#2021-01-01)
+
    * [2020 Workouts (phase 2)](#2020-workouts-phase-2)
+   
       * [2020-12-31](#2020-12-31)
       * [2020-12-30](#2020-12-30)
       * [2020-12-29](#2020-12-29)
@@ -292,9 +306,27 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-03-12
 
+- [ ] 5 rounds of:
+ - 6x D-ball tosses
+ - 10x Weighted Step-ups
+ - 25x Double-Unders
+ - 20x DB Floor Press
+ - 10x DB Deadlifts
+
 ## 2021-03-11
 
+- [ ] 50 rounds of:
+ - 1x Devil's press
+ - 2x Alternating DB Snatch
+ - 4x DB Overhead Lunge
+
 ## 2021-03-10
+
+- [ ] EMOM x 24 min
+ - 15x Bodyweight Squat
+ - 12x KB Swings
+ - 15x Pushups
+ - 12x Goblet Reverse Lunge
 
 ## 2021-03-09
 
