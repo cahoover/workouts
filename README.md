@@ -82,7 +82,7 @@ Daily Dose (workout log)
       * [2021-01-01](#2021-01-01)
 
    * [2020 Workouts (phase 2)](#2020-workouts-phase-2)
-   
+
       * [2020-12-31](#2020-12-31)
       * [2020-12-30](#2020-12-30)
       * [2020-12-29](#2020-12-29)
@@ -330,7 +330,7 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-03-09
 
-- [ ] 50 reps of:  
+- [x] 50 reps of:  
   - 3x Single Arm DB Snatches
   - 2x Single Arm DB Thrusters
   - 1x DB Single Arm Ground-2-Overhead
