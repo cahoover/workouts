@@ -304,7 +304,15 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 # 2021 Workouts
 
+
 ## 2021-03-12
+
+- [ ] 50 reps of:
+ - 1x Devil's press
+ - 2x Alternating DB Snatches
+ - 4x DB Overhead Lunges
+
+## 2021-03-11
 
 - [ ] 5 rounds of:
  - 6x D-ball tosses
@@ -313,27 +321,24 @@ These are some demos of the typical exercises you'll find in the workouts:
  - 20x DB Floor Press
  - 10x DB Deadlifts
 
-## 2021-03-11
-
-- [ ] 50 rounds of:
- - 1x Devil's press
- - 2x Alternating DB Snatch
- - 4x DB Overhead Lunge
-
 ## 2021-03-10
 
-- [ ] EMOM x 24 min
+- [x] 50 reps of:
+- 3x DB Alternating Snatches
+- 2x DB Alternating Thrusters
+- 1x DB Snatch
+
+https://vimeo.com/522211749
+
+Warm up: https://vimeo.com/522217164
+
+## 2021-03-09
+
+- [x] EMOM x 24 min
  - 15x Bodyweight Squat
  - 12x KB Swings
  - 15x Pushups
  - 12x Goblet Reverse Lunge
-
-## 2021-03-09
-
-- [x] 50 reps of:  
-  - 3x Single Arm DB Snatches
-  - 2x Single Arm DB Thrusters
-  - 1x DB Single Arm Ground-2-Overhead
 
 ## 2021-03-08
 
