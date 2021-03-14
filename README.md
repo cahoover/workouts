@@ -320,7 +320,7 @@ These are some demos of the typical exercises you'll find in the workouts:
  - 4 reps of:  
  {
    + Single Arm DB Renegade Row (Row + Push-Up)  
-   + Single Arm Cluster
+   + Single Arm Cluster  
   } = 1 rep
 
 ## 2021-03-17
