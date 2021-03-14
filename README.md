@@ -1,7 +1,6 @@
 Daily Dose (workout log)
 =================
 
-
    * [Daily Dose (workout log)](#daily-dose-workout-log)
 
    * [Workouts](#workouts)
@@ -9,6 +8,13 @@ Daily Dose (workout log)
       * [Sample Demo Videos](#sample-demo-videos)
 
    * [2021 Workouts](#2021-workouts)
+      * [2021-03-19](#2021-03-19)
+      * [2021-03-18](#2021-03-18)
+      * [2021-03-17](#2021-03-17)
+      * [2021-03-16](#2021-03-16)
+      * [2021-03-15](#2021-03-15)
+      * [2021-03-14](#2021-03-14)
+      * [2021-03-13](#2021-03-13)
       * [2021-03-12](#2021-03-12)
       * [2021-03-11](#2021-03-11)
       * [2021-03-10](#2021-03-10)
@@ -80,9 +86,7 @@ Daily Dose (workout log)
       * [2021-01-03](#2021-01-03)
       * [2021-01-02](#2021-01-02)
       * [2021-01-01](#2021-01-01)
-
    * [2020 Workouts (phase 2)](#2020-workouts-phase-2)
-
       * [2020-12-31](#2020-12-31)
       * [2020-12-30](#2020-12-30)
       * [2020-12-29](#2020-12-29)
@@ -304,17 +308,64 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 # 2021 Workouts
 
+## 2021-03-19
+
+- 8x rounds of
+ - 4x 150# D-ball Tosses
+ - 10x
+
+## 2021-03-18
+
+- [ ] EMOM x 22 min
+ - 4 reps of :
+ {
+   + Single Arm DB Renegade Row (Row + Push-Up)  
+   + Single Arm Cluster
+  } = 1 rep
+
+## 2021-03-17
+
+- [ ] 10x rounds of:
+ - 5x DB Hang Full Squat
+ - 5x DB Thrusters
+ - 5x DB Push Press
+
+## 2021-03-16
+
+- [ ] 8x rounds of:
+ - 8x DB Front Squats
+ - 8x DB Front Rack Lunges
+ - 8x DB Thrusters
+
+## 2021-03-15
+
+- [ ] EMOM x 20 min
+ - 3x reps of
+  + {Renegade Row + Devil's Press + Push Press} = 1 rep
+
+## 2021-03-14
+
+- [x] Boxing workout
+ - 20 min focus mitts
+ - 20 min heavy bag
+
+## 2021-03-13
+
+- [x] 5x Rounds of
+ - 10x TB snatches
+ - 10x KB snatches
+ - 10x DB snatches
 
 ## 2021-03-12
 
-- [ ] 50 reps of:
+- [x] 50 reps of:
  - 1x Devil's press
  - 2x Alternating DB Snatches
  - 4x DB Overhead Lunges
 
 ## 2021-03-11
 
-- [ ] 5 rounds of:
+- [x] 5x rounds of:
  - 6x D-ball tosses
  - 10x Weighted Step-ups
  - 25x Double-Unders
