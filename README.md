@@ -360,6 +360,8 @@ These are some demos of the typical exercises you'll find in the workouts:
  - 10x KB snatches
  - 10x DB snatches
 
+https://vimeo.com/523494579
+
 ## 2021-03-12
 
 - [x] 50 reps of:
