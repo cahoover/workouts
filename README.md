@@ -317,7 +317,7 @@ These are some demos of the typical exercises you'll find in the workouts:
 ## 2021-03-18
 
 - [ ] EMOM x 22 min
- - 4 reps of :
+ - 4 reps of:  
  {
    + Single Arm DB Renegade Row (Row + Push-Up)  
    + Single Arm Cluster
@@ -340,8 +340,12 @@ These are some demos of the typical exercises you'll find in the workouts:
 ## 2021-03-15
 
 - [ ] EMOM x 20 min
- - 3x reps of
-  + {Renegade Row + Devil's Press + Push Press} = 1 rep
+ - 3x reps of:  
+ {
+   + Renegade Row  
+   + Devil's Press  
+   + Push Press  
+  } = 1 rep
 
 ## 2021-03-14
 
