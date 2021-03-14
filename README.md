@@ -1,8 +1,6 @@
 Daily Dose (workout log)
 =================
 
-   * [Daily Dose (workout log)](#daily-dose-workout-log)
-
    * [Workouts](#workouts)
 
       * [Sample Demo Videos](#sample-demo-videos)
