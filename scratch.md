@@ -17,6 +17,11 @@ Copy and paste into `README.md`
 
 ## Untested workouts
 
+- [ ] 8x rounds of:
+ - 8x DB Front Squats
+ - 8x DB Front Rack Lunges
+ - 8x DB Thrusters
+
 - [x] 4x Rounds:
 - 8x Goblet squat
 - 8x Z-press

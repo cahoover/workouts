@@ -314,36 +314,40 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-03-18
 
-- [ ] EMOM x 22 min
- - 4 reps of:  
- {
-   + Single Arm DB Renegade Row (Row + Push-Up)  
-   + Single Arm Cluster  
-  } = 1 rep
-
-## 2021-03-17
-
 - [ ] 10x rounds of:
  - 5x DB Hang Full Squat
  - 5x DB Thrusters
  - 5x DB Push Press
 
+## 2021-03-17
+
+ - [ ] EMOM x 22 min
+  - 4 reps of:  
+  {
+    + Single Arm DB Renegade Row (Row + Push-Up)  
+    + Single Arm Cluster  
+   } = 1 rep
+
 ## 2021-03-16
 
-- [ ] 8x rounds of:
- - 8x DB Front Squats
- - 8x DB Front Rack Lunges
- - 8x DB Thrusters
+- [ ] 8x rounds of:  
+ - 8x DB Front Squats  
+ - 8x DB Front Rack Lunges  
+ - 8x DB Thrusters  
 
 ## 2021-03-15
 
-- [ ] EMOM x 20 min
- - 3x reps of:  
- {
-   + Renegade Row  
-   + Devil's Press  
-   + Push Press  
-  } = 1 rep
+- [x] Every 90 seconds x 10 cycles:  
+{ - Renegade Row
+  - Devils Press
+  - Push Press} = x 3 reps
+
+For as many rounds as possible\*:
+- 6x D-ball tosses @150#
+
+\*complete all 6 under 30 seconds.
+
+https://vimeo.com/524237748
 
 ## 2021-03-14
 
