@@ -315,7 +315,7 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-03-19
 
-- 8x rounds of
+- [ ] 8x rounds of
  - 4x 150# D-ball Tosses
  - 10x Weighted Step-Ups
 
