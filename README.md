@@ -306,6 +306,13 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 # 2021 Workouts
 
+## 2021-03-20
+
+- [ ] 10x rounds of:
+ - 5x DB Hang Full Squat Clean
+ - 5x DB Thrusters
+ - 5x DB Push Press
+
 ## 2021-03-19
 
 - 8x rounds of
@@ -314,10 +321,15 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-03-18
 
-- [ ] 10x rounds of:
- - 5x DB Hang Full Squat Clean
- - 5x DB Thrusters
- - 5x DB Push Press
+- [ ] EMOM x 12 min
+ - 10x DB Hang Full Squat Clean  
+ - 12x KB Snatches
+
+- [ ] EMOM x 10 min  
+ - 2 reps of:
+   {
+     DB Snatch + Thruster + Hammer Curl + Press  
+   } = 1 rep
 
 ## 2021-03-17
 
