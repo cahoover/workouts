@@ -321,7 +321,7 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-03-17
 
- - [ ] EMOM x 22 min
+ - [x] EMOM x 22 min
   - 4 reps of:  
   {
     + Single Arm DB Renegade Row (Row + Push-Up)  
@@ -330,7 +330,7 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-03-16
 
-- [ ] EMOM x 16 min:
+- [x] EMOM x 16 min:
  - 20x KB Swings   
  - 15x Push-Ups  
 
