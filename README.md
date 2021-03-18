@@ -310,12 +310,12 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 - 8x rounds of
  - 4x 150# D-ball Tosses
- - 10x
+ - 10x Weighted Step-Ups
 
 ## 2021-03-18
 
 - [ ] 10x rounds of:
- - 5x DB Hang Full Squat
+ - 5x DB Hang Full Squat Clean
  - 5x DB Thrusters
  - 5x DB Push Press
 
@@ -330,10 +330,9 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-03-16
 
-- [ ] 8x rounds of:  
- - 8x DB Front Squats  
- - 8x DB Front Rack Lunges  
- - 8x DB Thrusters  
+- [ ] EMOM x 16 min:
+ - 20x KB Swings   
+ - 15x Push-Ups  
 
 ## 2021-03-15
 
