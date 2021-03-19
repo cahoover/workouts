@@ -321,24 +321,26 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-03-18
 
-- [ ] EMOM x 12 min
- - 10x DB Hang Full Squat Clean  
+- [x] 6x Rounds
+ - 8x DB Hang Full Squat Clean  
  - 12x KB Snatches
 
-- [ ] EMOM x 10 min  
- - 2 reps of:
-   {
-     DB Snatch + Thruster + Hammer Curl + Press  
-   } = 1 rep
+- [x] 10x rounds:
+ - 4 reps of:  
+   { DB Snatch +
+     Thruster +
+     Hammer Curl +
+     Press  
+   } = 1 rep  
 
 ## 2021-03-17
 
  - [x] EMOM x 22 min
   - 4 reps of:  
   {
-    + Single Arm DB Renegade Row (Row + Push-Up)  
-    + Single Arm Cluster  
-   } = 1 rep
+    + Single Arm DB Renegade Row (Row + Push-Up)    
+    + Single Arm Cluster    
+   } = 1 rep  
 
 ## 2021-03-16
 
