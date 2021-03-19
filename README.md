@@ -333,6 +333,8 @@ These are some demos of the typical exercises you'll find in the workouts:
      Press  
    } = 1 rep  
 
+https://vimeo.com/525875032
+
 ## 2021-03-17
 
  - [x] EMOM x 22 min
