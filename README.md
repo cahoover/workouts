@@ -306,9 +306,64 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 # 2021 Workouts
 
+## 2021-03-31
+
+## 2021-03-30
+
+## 2021-03-29
+
+## 2021-03-28
+
+## 2021-03-27
+
+## 2021-03-26
+
+## 2021-03-25
+
+- [ ] 6x Rounds
+
+- 15x Squat
+- 12x Push Ups
+- 9x Sit ups
+- 6x Lunges
+- 3x Pull Ups
+
+## 2021-03-24
+
+- [ ] 1x Round:  
+
+- 100x Squats
+- 80x Sit Ups
+- 60x Lunges
+- 40x Push Ups
+- 20x Burpees
+
+## 2021-03-23
+
+- [ ] For time:  
+- 30x D-Ball Clean and Toss (@90#)  
+*toss it over the box*  
+
+## 2021-03-22
+
+- [x] Gym Workout
+- 50 KB swings
+- 50 Sling Shot Squats
+
+- Front Squats (135 x 5, 185 x 5, 195 x 5, 225 x 4 x 2)  
+- Power Clean + Hang Full Clean (185 x 5, 195 x 5)
+
+## 2021-03-21
+
+- [x] Every 90 seconds x 10 cycles:
+
+- 3x Single Arm Snatch (each side)  
+- 6x Push Ups
+- 9x Squats
+
 ## 2021-03-20
 
-- [ ] 10x rounds of:
+- [x] 10x rounds of:
  - 5x DB Hang Full Squat Clean
  - 5x DB Thrusters
  - 5x DB Push Press
