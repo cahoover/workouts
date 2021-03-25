@@ -330,7 +330,7 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-03-24
 
-- [ ] 1x Round:  
+- [x] 1x Round:  
 
 - 100x Squats
 - 80x Sit Ups
@@ -340,9 +340,15 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-03-23
 
-- [ ] For time:  
+- [ ] 50 reps of:
+
 - 30x D-Ball Clean and Toss (@90#)  
-*toss it over the box*  
+
+- 20x D-Ball Clean and Toss (@150#)
+
+*toss it over a 30 inch box*  
+
+https://vimeo.com/528085831
 
 ## 2021-03-22
 
