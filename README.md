@@ -306,45 +306,123 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 # 2021 Workouts
 
+
+
+## 2021-04-07
+
+- [ ] 4x Rounds:
+- 8x Goblet squat
+- 8x Z-press
+- 8x Bent over rows
+- 8x Farmer carry
+
+## 2021-04-06
+
+- [ ] 10 Rounds
+ - 10x DB Single Arm Snatches
+ - 10x DB/TB Floor Press
+ - 6x Weighted Step-Ups
+
+## 2021-04-05
+
+- [ ] 8x rounds of:
+ - 8x DB Front Squats
+ - 8x DB Front Rack Lunges
+ - 8x DB Thrusters
+
+## 2021-04-04
+
+10-9-8-7-6-5-4-3-2-1 reps of:  
+  - DB Deadlift  
+  - DB Hang Power Clean
+  - DB Push Jerks
+
+## 2021-04-03
+
+- [ ] 5x Rounds:
+  - 8x Hang power clean and jerk
+  - 8x Front rack lunge
+  - 8x Ground-to-overhead
+  - 40m Farmer carry
+
+## 2021-04-02
+
+- [ ] 4x rounds:
+  - 10x DB Hang Power Clean and Jerk
+  - 10x Renegade Row
+  - 25x Double-Unders
+
+## 2021-04-01
+
+- [ ] 1-2-3-4-5-6-7-8-9-10 reps of:
+ - Single Arm DB Deadlift
+ - Single Arm DB Snatch (from floor)  
+ - Single Arm DB Thruster  
+ - Single Arm DB Push Press
+
 ## 2021-03-31
+
+- [ ] 20x Rounds of:
+  - 5x DB Snatch  
+  - 4x DB Overhead Lunge  
+  - 3x SA DB Push Press  
+  - 2x SA DB Front Squat  
+  - 1x SA DB Thruster
 
 ## 2021-03-30
 
+- [x] EMOM x 18 Min
+  - 12x Push-Ups
+  - 12x Squats
+
 ## 2021-03-29
+
+- [x] EMOM x 16 Min
+  - 11x Push-Ups
+  - 11x Squats
 
 ## 2021-03-28
 
+- [x] EMOM x 14 Min
+  - 11x Push-Ups
+  - 11x Squats
+
 ## 2021-03-27
+
+- [x] EMOM x 12 Min
+  - 10x Push-Ups
+  - 10x Squats
 
 ## 2021-03-26
 
+- [x] EMOM x 10 Min
+  - 10x Push-Ups
+  - 10x Squats
+
 ## 2021-03-25
 
-- [ ] 6x Rounds
-
-- 15x Squat
-- 12x Push Ups
-- 9x Sit ups
-- 6x Lunges
-- 3x Pull Ups
+- [x] 6x Rounds
+  - 15x Squat
+  - 12x Push Ups
+  - 9x Sit ups
+  - 6x Lunges
+  - 3x Pull Ups
 
 ## 2021-03-24
 
 - [x] 1x Round:  
-
-- 100x Squats
-- 80x Sit Ups
-- 60x Lunges
-- 40x Push Ups
-- 20x Burpees
+  - 100x Squats
+  - 80x Sit Ups
+  - 60x Lunges
+  - 40x Push Ups
+  - 20x Burpees
 
 ## 2021-03-23
 
-- [ ] 50 reps of:
+- [x] 50 reps of:
 
-- 30x D-Ball Clean and Toss (@90#)  
-
-- 20x D-Ball Clean and Toss (@150#)
+  - 30x D-Ball Clean and Toss (@90#)  
+  - 20x D-Ball Clean and Toss (@150#)
 
 *toss it over a 30 inch box*  
 

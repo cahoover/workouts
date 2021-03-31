@@ -17,39 +17,6 @@ Copy and paste into `README.md`
 
 ## Untested workouts
 
-- [ ] 8x rounds of:
- - 8x DB Front Squats
- - 8x DB Front Rack Lunges
- - 8x DB Thrusters
-
-- [x] 4x Rounds:
-- 8x Goblet squat
-- 8x Z-press
-- 8x Bent over rows
-- 8x Farmer carry
-
-***
-
-- [ ] 5x Rounds:
-- 8x Hang power clean and jerk
-- 8x Front rack lunge
-- 8x Ground-to-overhead
-- 40m Farmer carry
-
-***
-
-- [x] 4x rounds:
-- 10x Power clean and jerk
-- 10x Renegade row
-- 10x Thruster
-
-***
-
-- [ ] 10 Rounds
- - 10x DB Single Arm Snatches
- - 10x DB/TB Floor Press
- - 6x Weighted Step-Ups
-
 ***
 
 - [ ] Home/Travel Workout
@@ -80,3 +47,21 @@ Workout:
  - Dumbbell Weighted Step-up into Bicep Curls
  - Man Makers
  - Dumbbell Flys (Shoulders and/or Chest)
+
+***
+
+- 15x DB Snatches
+- 20x Single Arm Overhead Lunge
+- 60x Double-unders
+
+- 12x DB Snatches
+- 15x Single Arm Overhead Lunge
+- 50x Double-unders
+
+- 9x DB Snatches
+- 10x Single Arm Overhead Lunge
+- 40x Double-unders
+
+- 6x DB Snatches
+- 5x Single Arm Overhead Lunge
+- 30x Double-unders
