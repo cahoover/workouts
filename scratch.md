@@ -9,7 +9,7 @@ To add TOC to `README.md`, download [github-markdown-toc](https://github.com/eka
 ./gh-md-toc ~/Dropbox/@gym/daily-dose/README.md
 ./gh-md-toc https://github.com/mjfrigaard/daily-dose/blob/main/README.md
 # or write it to file
-./gh-md-toc ~/Dropbox/@gym/daily-dose/README.md > ~/Dropbox/@gym/daily-dose/toc.md
+./gh-md-toc ~/Dropbox/@gym/daily-dose/README.md > toc.md
 ./gh-md-toc https://github.com/mjfrigaard/daily-dose/blob/main/README.md > toc.md
 ```
 
