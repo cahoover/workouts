@@ -380,12 +380,16 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-03-31
 
-- [ ] 20x Rounds of:
+- [x] 20x Rounds of:
   - 5x DB Snatch  
   - 4x DB Overhead Lunge  
   - 3x SA DB Push Press  
   - 2x SA DB Front Squat  
   - 1x SA DB Thruster
+
+*50# DB shown*
+
+https://vimeo.com/531536115
 
 ## 2021-03-30
 
