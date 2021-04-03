@@ -365,18 +365,32 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-04-02
 
-- [ ] 4x rounds:
+- [x] 4x rounds:
   - 10x DB Hang Power Clean and Jerk
   - 10x Renegade Row
   - 25x Double-Unders
 
+- [x] Squats!
+  - 12x KB swings
+  - 3x8 @135# Front Squat + Back Squat
+  - 12x KB swings
+  - 4x7 @185# Front Squat + Back Squat
+  - 12x KB swings
+  - 5x5 @225# Front Squat + Back Squat
+  - 12x KB swings
+
+https://vimeo.com/532562935
+
 ## 2021-04-01
 
-- [ ] 1-2-3-4-5-6-7-8-9-10 reps of:
+- [x] 1-2-3-4-5-6-7-8-9-10 reps of:
  - Single Arm DB Deadlift
  - Single Arm DB Snatch (from floor)  
  - Single Arm DB Thruster  
  - Single Arm DB Push Press
+
+*Cadrio*  
+https://vimeo.com/532093693
 
 ## 2021-03-31
 
