@@ -324,7 +324,13 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 # 2021 Workouts
 
+## 2021-04-08
 
+- [ ] 5x Rounds:
+  - 8x Hang power clean and jerk
+  - 8x Front rack lunge
+  - 8x Ground-to-overhead
+  - 40m Farmer carry
 
 ## 2021-04-07
 
@@ -350,18 +356,22 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-04-04
 
-10-9-8-7-6-5-4-3-2-1 reps of:  
+- [ ] 10-9-8-7-6-5-4-3-2-1 reps of:  
   - DB Deadlift  
   - DB Hang Power Clean
   - DB Push Jerks
 
 ## 2021-04-03
 
-- [ ] 5x Rounds:
-  - 8x Hang power clean and jerk
-  - 8x Front rack lunge
-  - 8x Ground-to-overhead
-  - 40m Farmer carry
+- [x] 50 reps of (@55#):
+  - DB snatch + reverse lunge
+  - DB snatch + reverse lunge + press
+  - DB split snatch (catch in reverse lunge)
+
+- [x] 25 reps of:
+  - heavy DB snatch (85#)
+
+https://vimeo.com/532732978
 
 ## 2021-04-02
 
