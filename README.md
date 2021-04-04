@@ -380,7 +380,7 @@ https://vimeo.com/532732978
   - 10x Renegade Row
   - 25x Double-Unders
 
-- [x] Squats!
+- [x] Squats!!!
   - 12x KB swings
   - 3x8 @135# Front Squat + Back Squat
   - 12x KB swings
