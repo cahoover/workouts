@@ -368,7 +368,7 @@ https://vimeo.com/533724803
 
 ## 2021-04-04
 
-- [ ] 10-9-8-7-6-5-4-3-2-1 reps of:
+- [x] 10-9-8-7-6-5-4-3-2-1 reps of:
   - DB Deadlift
   - DB Hang Power Clean
   - DB Push Jerks
