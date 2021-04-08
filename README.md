@@ -311,7 +311,7 @@ This is a daily workout log.
 
 These are some demos of the typical exercises you'll find in the workouts:
 
-+ [**Single Arm Switch Hand Swing**](https://vimeo.com/466993111)  
++ [**Single Arm Switch Hand Swing**](https://vimeo.com/466993111)
 + [**Single Arm DB Clusters**](https://vimeo.com/466994056)
 + [**DB Ground to Overhead**](https://vimeo.com/467000265/9a738e8398)
 + [**Dumbbell combo (Single Arm Snatch + Front Squat + Hang Power Clean + Push Press)**](https://vimeo.com/466994424)
@@ -333,18 +333,22 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-04-08
 
-- [ ] 5x Rounds:
-  - 8x Hang power clean and jerk
-  - 8x Front rack lunge
-  - 8x Ground-to-overhead
-  - 40m Farmer carry
+- [ ] Squat Workout:
+  - 8x Front Squat @135# x2
+  - 8x Back Squat @135# x2
+  - 6x Back Squat @185# x2
+  - 6x Back Squat @185# x2
+  - 5x Back Squat @225# 
+  - 5x Back Squat @225#
 
 ## 2021-04-07
 
-- [ ] 8x Rounds:
+- [x] 8x Rounds:
   - 2x KB combo (4x total):
     - single arm swing + snatch + cluster (@53#)
   - 8x D-ball tosses (@90#)
+
+https://vimeo.com/534262444
 
 ## 2021-04-06
 
