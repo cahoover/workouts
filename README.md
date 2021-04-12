@@ -3,7 +3,17 @@ Daily Dose (workout log)
 
    * [Workouts](#workouts)
       * [Sample Demo Videos](#sample-demo-videos)
+
    * [2021 Workouts](#2021-workouts)
+      * [2021-04-16](#2021-04-17)
+      * [2021-04-16](#2021-04-16)
+      * [2021-04-15](#2021-04-15)
+      * [2021-04-14](#2021-04-14)
+      * [2021-04-13](#2021-04-13)
+      * [2021-04-12](#2021-04-12)
+      * [2021-04-11](#2021-04-11)
+      * [2021-04-10](#2021-04-10)
+      * [2021-04-09](#2021-04-09)
       * [2021-04-08](#2021-04-08)
       * [2021-04-07](#2021-04-07)
       * [2021-04-06](#2021-04-06)
@@ -324,9 +334,65 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 # 2021 Workouts
 
+## 2021-04-17
+
+- [ ] EMOM x24 min
+  - 25x double unders
+  - 8x D-ball tosses
+  - 8x DB clusters
+
+## 2021-04-16
+
+- [ ] squat workout (barbell)
+- 10x reps @135# (front and back squat)
+- 8x reps @185# (front and back squat)
+- 6x reps @205# (front and back squat)
+- 4x reps @225# (front and back squat)
+
+## 2021-04-15
+
+- [ ] 10 rounds:
+- 8x alternating DB snatch
+- 10x lateral burpees (over DBs)
+
+## 2021-04-14
+
+- [ ] 3 rounds:
+  - 30x squats
+  - 20x DB hang power clean + jerk
+  - 10x single arm Devil's press
+
+## 2021-04-13
+
+- [ ] 15-12-9-12-15 reps of:
+  - KB snatch
+  - burpess
+
+
+## 2021-04-12
+
+- [ ] 50x reps of the following complex:
+  - DB bupee
+  - DB power clean
+  - DB push press
+
+## 2021-04-11
+
+- [x] 10 rounds
+ - 10x pushups
+ - 12x squats
+ - 15x situps
+
+## 2021-04-10
+
+- [x] 8x rounds
+ - 10x pushups
+ - 12x squats
+ - 15x situps
+
 ## 2021-04-09
 
-- [ ] 10 Rounds
+- [x] 10 Rounds
  - 10x DB Single Arm Snatches
  - 10x DB/TB Floor Press
  - 6x Weighted Step-Ups
@@ -338,7 +404,7 @@ These are some demos of the typical exercises you'll find in the workouts:
   - 8x Back Squat @135# x2
   - 6x Back Squat @185# x2
   - 6x Back Squat @185# x2
-  - 5x Back Squat @225# 
+  - 5x Back Squat @225#
   - 5x Back Squat @225#
 
 ## 2021-04-07
