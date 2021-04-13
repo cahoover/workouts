@@ -580,7 +580,7 @@ https://vimeo.com/528085831
 
 ## 2021-03-19
 
-- [ ] 8x rounds of
+- [x] 8x rounds of
   - 4x 150# D-ball Tosses
   - 10x Weighted Step-Ups
 
