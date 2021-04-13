@@ -371,10 +371,11 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-04-12
 
-- [ ] 50x reps of the following complex:
+- [x] 50x reps of the following:
   - DB bupee
-  - DB power clean
-  - DB push press
+  - DB power clean + push press
+
+https://vimeo.com/536127206
 
 ## 2021-04-11
 
@@ -399,7 +400,7 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-04-08
 
-- [ ] Squat Workout:
+- [x] Squat Workout:
   - 8x Front Squat @135# x2
   - 8x Back Squat @135# x2
   - 6x Back Squat @185# x2
