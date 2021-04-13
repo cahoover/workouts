@@ -366,8 +366,7 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 - [ ] 15-12-9-12-15 reps of:
   - KB snatch
-  - burpess
-
+  - burpess (over DBs)
 
 ## 2021-04-12
 
