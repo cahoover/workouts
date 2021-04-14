@@ -338,6 +338,13 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 # 2021 Workouts
 
+## 2021-04-18
+
+- [ ] 3 rounds:
+  - 30x squats
+  - 20x DB hang power clean + jerk
+  - 10x single arm Devil's press
+
 ## 2021-04-17
 
 - [ ] EMOM x24 min
@@ -361,10 +368,11 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-04-14
 
-- [ ] 3 rounds:
-  - 30x squats
-  - 20x DB hang power clean + jerk
-  - 10x single arm Devil's press
+- [ ] Every 45 seconds x 50 cycles
+  - DB Renegade rows (2x)
+  - DB push-up
+  - DB Devil's press
+  - DB thruster
 
 ## 2021-04-13
 
