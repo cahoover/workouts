@@ -362,7 +362,7 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-04-15
 
-- [ ] 10 rounds:
+- [x] 10 rounds:
   - 8x alternating DB snatch
   - 10x lateral burpees (over DBs)
 
