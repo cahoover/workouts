@@ -368,11 +368,13 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-04-14
 
-- [ ] Every 45 seconds x 50 cycles
+- [x] Every 45 seconds x 50 cycles
   - DB Renegade rows (2x)
   - DB push-up
   - DB Devil's press
   - DB thruster
+
+https://vimeo.com/537549260
 
 ## 2021-04-13
 
