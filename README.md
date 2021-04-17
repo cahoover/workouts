@@ -7,6 +7,8 @@ Daily Dose (workout log)
 
    * [2021 Workouts](#2021-workouts)
 
+      * [2021-04-19](#2021-04-19)
+      * [2021-04-18](#2021-04-18)
       * [2021-04-17](#2021-04-17)
       * [2021-04-16](#2021-04-16)
       * [2021-04-15](#2021-04-15)
@@ -338,27 +340,34 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 # 2021 Workouts
 
+## 2021-04-19
+
+- [ ] 4 rounds:
+  - 20x KB swings
+  - 20x DB snatches
+  - 10x D-ball tosses
+
 ## 2021-04-18
+
+- [ ] squat workout (barbell):
+  - 10x reps @135# (front and back squat)
+  - 8x reps @185# (front and back squat)
+  - 6x reps @205# (front and back squat)
+  - 4x reps @225# (front and back squat)
+
+## 2021-04-17
+
+- [ ] EMOM x24 min:
+  - 25x double unders
+  - 5x D-ball tosses (@90#)
+  - 10x KB snatches (@70#)
+
+## 2021-04-16
 
 - [ ] 3 rounds:
   - 30x squats
   - 20x DB hang power clean + jerk
   - 10x single arm Devil's press
-
-## 2021-04-17
-
-- [ ] EMOM x24 min
-  - 25x double unders
-  - 8x D-ball tosses
-  - 8x DB clusters
-
-## 2021-04-16
-
-- [ ] squat workout (barbell)
-  - 10x reps @135# (front and back squat)
-  - 8x reps @185# (front and back squat)
-  - 6x reps @205# (front and back squat)
-  - 4x reps @225# (front and back squat)
 
 ## 2021-04-15
 
@@ -379,7 +388,7 @@ https://vimeo.com/537549260
 ## 2021-04-13
 
 - [x] 15-12-9-12-15 reps of:
-  - KB snatch
+  - KB swings
   - burpess (over KBs)
 
 https://vimeo.com/536595791
