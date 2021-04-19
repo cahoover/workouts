@@ -376,6 +376,8 @@ https://vimeo.com/538319482
   - 20x DB hang power clean + jerk
   - 10x single arm Devil's press
 
+https://vimeo.com/538332181
+
 ## 2021-04-15
 
 - [x] 10 rounds:
