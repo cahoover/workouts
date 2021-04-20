@@ -352,12 +352,14 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 - [x] EMOM x24 Min
   - 12x ball slams (@25#)
-  - 10x Ground-to-overhead
+  - 10x Ground-to-overhead (@35#)
   - 30 sec Scorpion Bag
+
+https://vimeo.com/538995278
 
 ## 2021-04-18
 
-- [ ] squat workout (barbell)
+- [x] squat workout (barbell)
   - 10x reps @135# (front and back squat)
   - 8x reps @185# (front and back squat)
   - 6x reps @205# (front and back squat)
