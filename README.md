@@ -343,14 +343,17 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-04-20
 
-
-
-## 2021-04-19
-
 - [ ] 4 rounds:
   - 20x KB swings
   - 20x DB snatches
   - 10x D-ball tosses
+
+## 2021-04-19
+
+- [x] EMOM x24 Min
+  - 12x ball slams (@25#)
+  - 10x Ground-to-overhead
+  - 30 sec Scorpion Bag
 
 ## 2021-04-18
 
