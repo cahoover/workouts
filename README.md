@@ -341,9 +341,27 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 # 2021 Workouts
 
+
+## 2021-04-22
+
+- [ ] 3-6-9-12-15 reps of:  
+  - DB Thrusters
+  - Alternating DB Snatch
+*20m Carry after each round*
+
+## 2021-04-21
+
+- [x] EMOM x 32 min:
+  - 12x KB swings (@70#)
+  - 10x DB suitcase lunge (@50#)
+  - 10x DB deadlift (@50#)
+  - 15x push-ups
+
+https://vimeo.com/539910218
+
 ## 2021-04-20
 
-- [ ] 4 rounds:
+- [x] 4 rounds:
   - 20x KB swings
   - 20x DB snatches
   - 10x D-ball tosses
