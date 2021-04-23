@@ -341,13 +341,23 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 # 2021 Workouts
 
+## 2021-04-23
+
+- [ ] 3-6-9-12-15 reps of:
+  - DB Thrusters
+  - Alternating DB Snatch
+*20m Carry after each round*  
+
 
 ## 2021-04-22
 
-- [ ] 3-6-9-12-15 reps of:  
-  - DB Thrusters
-  - Alternating DB Snatch
-*20m Carry after each round*
+- [x] 8x rounds of:
+  - 25x double-unders
+  - 12x goblet squats (@50#)
+  - 12x DB press (@50#)
+
+
+https://vimeo.com/540434396
 
 ## 2021-04-21
 
