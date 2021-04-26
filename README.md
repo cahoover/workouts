@@ -394,11 +394,11 @@ These are some demos of the typical exercises you'll find in the workouts:
 ## 2021-04-27
 
 - [ ] 1 round:
-  - 50x KB Deadlift
-  - 40x KB Clean
-  - 30x KB Push Press
-  - 20x KB Front Squat
-  - 10x KB Clusters
+  - 50x KB Deadlift (*5 sets of 10*)
+  - 40x KB Clean (*5 sets of 8*)
+  - 30x KB Push Press (*6 sets of 5*)
+  - 20x KB Front Squat (*4 sets of 5*)
+  - 10x KB Cluster (*however you can*)
 
 ## 2021-04-26
 
