@@ -9,7 +9,6 @@ Daily Dose (workout log)
 
 * [2021 Workouts](#2021-workouts)
 
-   * [2021-05-02](#2021-05-02)
    * [2021-05-01](#2021-05-01)
    * [2021-04-30](#2021-04-30)
    * [2021-04-29](#2021-04-29)
@@ -357,8 +356,6 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 # 2021 Workouts
 
-## 2021-05-02
-
 ## 2021-05-01
 
 - [ ] EMOM x 24 min
@@ -406,10 +403,10 @@ These are some demos of the typical exercises you'll find in the workouts:
 ## 2021-04-26
 
 - [ ] EMOM x 28 min
-- 10x Single Arm DB Thruster (R)
-- 8x Burpees Over DB
-- 10x Single Arm DB Thruster (L)
-- 8x Burpees Over DB
+  - 10x Single Arm DB Thruster (R)
+  - 8x Burpees Over DB
+  - 10x Single Arm DB Thruster (L)
+  - 8x Burpees Over DB
 
 ## 2021-04-25
 
