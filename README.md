@@ -403,10 +403,14 @@ These are some demos of the typical exercises you'll find in the workouts:
 ## 2021-04-26
 
 - [ ] EMOM x 28 min
-  - 10x Single Arm DB Thruster (R)
-  - 8x Burpees Over DB
-  - 10x Single Arm DB Thruster (L)
-  - 8x Burpees Over DB
+  - 10x Single Arm DB Thruster (R @45#)
+  - 15x KB swings (@70#)
+  - 10x Single Arm DB Thruster (L @45#)
+  - 15x KB swings (@70#)
+
+(*supplemental ab work*)
+
+https://vimeo.com/541858778
 
 ## 2021-04-25
 
